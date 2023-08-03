@@ -51,7 +51,7 @@ def ic_level_classification(x):
 final['hbcu'] = final['hbcu'].apply(is_one)
 final['tribal'] = final['tribal'].apply(is_one)
 final['msi'] = final['msi'].apply(is_one)
-final['iclevel'] = final['iclevel'].apply()
+final['iclevel'] = final['iclevel'].apply(ic_level_classification)
 
 final.to_json("final_w_supplemental.json", orient="records")
 final.to_csv("final_w_supplemental.csv", index=False)
