@@ -32,15 +32,16 @@ final["LON"] = final.apply(calculate_lon, axis=1)
 def is_one(x):
     if x == 1:
         return True
-    elif isinstance(x, int):
+    elif not pd.isna(x):
         return False
 
     return x
 
+
 def ic_level_classification(x):
     if x == 1:
         return "Four or more years"
-    if isinstance(x, int):
+    if not pd.isna(x):
         return "At least 2 but less than 4 years"
 
     return x

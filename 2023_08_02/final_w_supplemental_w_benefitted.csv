@@ -1,0 +1,110 @@
+Institution Name,Has Resource(s),Has Project(s),IPEDS,Weird Stuff,NCES,"Google Lat, Lon",Group,_merge,UNITID,LON,LAT,unitid,name,city,hbcu,tribal,msi,iclevel,Benefited From
+The University of Alabama at Birmingham,FALSE,TRUE,100663,,,,1,both,100663,-86.799345,33.505697,100663,University of Alabama at Birmingham,Birmingham,FALSE,FALSE,FALSE,Four or more years,TRUE
+California Institute of Technology,TRUE,TRUE,110404,,,,2,both,110404,-118.125878,34.137349,110404,California Institute of Technology,Pasadena,FALSE,FALSE,FALSE,Four or more years,TRUE
+"University of California, Davis",FALSE,TRUE,110644,,,,4,both,110644,-121.749567,38.539667,110644,University of California-Davis,Davis,FALSE,FALSE,FALSE,Four or more years,TRUE
+"University of California, Irvine",FALSE,TRUE,110653,,,,5,both,110653,-117.841248,33.648434,110653,University of California-Irvine,Irvine,FALSE,FALSE,FALSE,Four or more years,TRUE
+"University of California, San Diego",FALSE,TRUE,110680,TRUE,,,8,both,110680,-117.235866,32.877749,110680,University of California-San Diego,La Jolla,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Southern California,TRUE,TRUE,123961,,,,11,both,123961,-118.284169,34.021281,123961,University of Southern California,Los Angeles,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Colorado Boulder,FALSE,TRUE,126614,,,,12,both,126614,-105.270823,40.008781,126614,University of Colorado Boulder,Boulder,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Hawaii at Manoa,FALSE,TRUE,141574,,,,13,both,141574,-157.818979,21.298598,141574,University of Hawaii at Manoa,Honolulu,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Chicago,TRUE,TRUE,144050,,,,14,both,144050,-87.599539,41.787994,144050,University of Chicago,Chicago,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Illinois Urbana-Champaign,FALSE,TRUE,145637,,,,15,both,145637,-88.229114,40.104718,145637,University of Illinois Urbana-Champaign,Champaign,FALSE,FALSE,FALSE,Four or more years,TRUE
+LSU School of Public Health,FALSE,TRUE,159373,TRUE,,,18,both,159373,-90.083145,29.957272,159373,Louisiana State University Health Sciences Center-New Orleans,New Orleans,FALSE,FALSE,FALSE,Four or more years,TRUE
+Johns Hopkins University,FALSE,TRUE,162928,,,,19,both,162928,-76.621595,39.328977,162928,Johns Hopkins University,Baltimore,FALSE,FALSE,FALSE,Four or more years,TRUE
+Harvard Medical School,TRUE,TRUE,166027,TRUE,,,21,both,166027,-71.118313,42.374471,166027,Harvard University,Cambridge,FALSE,FALSE,FALSE,Four or more years,TRUE
+Michigan State University,FALSE,TRUE,171100,,,,23,both,171100,-84.476111,42.73212,171100,Michigan State University,East Lansing,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Missouri,FALSE,TRUE,178396,,,,25,both,178396,-92.328843,38.94531,178396,University of Missouri-Columbia,Columbia,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Nebraska-Lincoln,FALSE,TRUE,181464,,,,26,both,181464,-96.700508,40.817598,181464,University of Nebraska-Lincoln,Lincoln,FALSE,FALSE,FALSE,Four or more years,TRUE
+"Rutgers, The State University of New Jersey",FALSE,TRUE,186380,TRUE,,,27,both,186380,-74.446251,40.498769,186380,Rutgers University-New Brunswick,New Brunswick,FALSE,FALSE,FALSE,Four or more years,TRUE
+Columbia University,FALSE,TRUE,190150,,,,28,both,190150,-73.961885,40.808286,190150,Columbia University in the City of New York,New York,FALSE,FALSE,FALSE,Four or more years,TRUE
+State University of New York at Stony Brook,FALSE,TRUE,196097,,,,30,both,196097,-73.12046,40.91476,196097,Stony Brook University,Stony Brook,FALSE,FALSE,FALSE,Four or more years,TRUE
+Duke University,FALSE,TRUE,198419,,,,32,both,198419,-78.937624,36.001135,198419,Duke University,Durham,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Pennsylvania,TRUE,TRUE,215062,,,,36,both,215062,-75.19391,39.950929,215062,University of Pennsylvania,Philadelphia,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Texas at Arlington,FALSE,TRUE,228769,,,,40,both,228769,-97.11296,32.729718,228769,The University of Texas at Arlington,Arlington,FALSE,FALSE,TRUE,Four or more years,TRUE
+Virginia Tech University,FALSE,TRUE,233921,TRUE,,,42,both,233921,-80.423675,37.229012,233921,Virginia Polytechnic Institute and State University,Blacksburg,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Wisconsin-Madison,FALSE,TRUE,240444,,,,43,both,240444,-89.404098,43.075409,240444,University of Wisconsin-Madison,Madison,FALSE,FALSE,FALSE,Four or more years,TRUE
+Pennsylvania State University,FALSE,TRUE,495767,,,,46,both,495767,-77.862848,40.7965,495767,The Pennsylvania State University,University Park,FALSE,FALSE,FALSE,Four or more years,TRUE
+Argonne National Laboratory,FALSE,TRUE,,TRUE,,"41.717702118417826, -87.97779883027358",49,both,,-87.97779883,41.71770212,,,,,,,,TRUE
+Fermilab,FALSE,TRUE,,TRUE,,"41.838425845702055, -88.26182229489123",50,both,,-88.26182229,41.83842585,,,,,,,,TRUE
+OSG,FALSE,TRUE,,,,"43.07227800381882, -89.40075425604951",51,both,,-89.40075426,43.072278,,,,,,,,TRUE
+Open Science Grid,FALSE,TRUE,,,,"43.07227800381882, -89.40075425604951",51,both,,-89.40075426,43.072278,,,,,,,,TRUE
+Cedars-Sinai Medical Center,FALSE,TRUE,,,,"34.1078923200178, -118.35237775517642",,left_only,,-118.3523778,34.10789232,,,,,,,,TRUE
+Memorial Sloan Kettering Cancer Center,FALSE,TRUE,,,,"40.76234715857106, -73.97207596946099",,left_only,,-73.97207597,40.76234716,,,,,,,,TRUE
+NOIR Lab,FALSE,TRUE,,,,"32.23093159807336, -110.94673111435739",,left_only,,-110.9467311,32.2309316,,,,,,,,TRUE
+Oregon Health & Science University,FALSE,TRUE,209490,,,,,left_only,209490,-122.686096,45.498772,209490,Oregon Health & Science University,Portland,FALSE,FALSE,FALSE,Four or more years,TRUE
+Planetary Science Institute,FALSE,TRUE,,,,"32.2646967475822, -110.94301468396021",,left_only,,-110.9430147,32.26469675,,,,,,,,TRUE
+United States Department of Agriculture,FALSE,TRUE,,,,"38.88461577634526, -77.03127364184189",,left_only,,-77.03127364,38.88461578,,,,,,,,TRUE
+American Museum of Natural History,TRUE,TRUE,,,,"40.78126721157984, -73.97407403216513",,both,,-73.97407403,40.78126721,,,,,,,,TRUE
+Arcadia University,FALSE,TRUE,211088,,,,,both,211088,-75.163876,40.092606,211088,Arcadia University,Glenside,FALSE,FALSE,FALSE,Four or more years,TRUE
+Arizona State University,TRUE,TRUE,104151,,,,,both,104151,-111.934383,33.417721,104151,Arizona State University Campus Immersion,Tempe,FALSE,FALSE,FALSE,Four or more years,TRUE
+Bay Area Environmental Research Institute,FALSE,TRUE,,,,"37.413084593214464, -122.05884613405762",,both,,-122.0588461,37.41308459,,,,,,,,TRUE
+Brookhaven National Laboratory,TRUE,TRUE,,,,"40.86272347969052, -72.87937552123208",,both,,-72.87937552,40.86272348,,,,,,,,TRUE
+"California State University, San Bernadino",FALSE,TRUE,110510,,,,,both,110510,-117.323801,34.182622,110510,California State University-San Bernardino,San Bernardino,FALSE,FALSE,TRUE,Four or more years,TRUE
+Carnegie-Mellon University,FALSE,TRUE,211440,,,,,both,211440,-79.941993,40.44357,211440,Carnegie Mellon University,Pittsburgh,FALSE,FALSE,FALSE,Four or more years,TRUE
+Clemson University,TRUE,TRUE,217882,,,,,both,217882,-82.835114,34.679381,217882,Clemson University,Clemson,FALSE,FALSE,FALSE,Four or more years,TRUE
+College of Charleston,FALSE,TRUE,217819,,,,,both,217819,-79.939794,32.784225,217819,College of Charleston,Charleston,FALSE,FALSE,FALSE,Four or more years,TRUE
+Colorado School of Mines,FALSE,TRUE,126775,,,,,both,126775,-105.223364,39.751443,126775,Colorado School of Mines,Golden,FALSE,FALSE,FALSE,Four or more years,TRUE
+Cornell University,TRUE,TRUE,190415,,,,,both,190415,-76.483084,42.4472,190415,Cornell University,Ithaca,FALSE,FALSE,FALSE,Four or more years,TRUE
+Creighton University,FALSE,TRUE,181002,,,,,both,181002,-95.947811,41.265361,181002,Creighton University,Omaha,FALSE,FALSE,FALSE,Four or more years,TRUE
+"Dearborn Center for Math, Science, and Technology",FALSE,TRUE,,,,"42.340470897541046, -83.26100292001256",,both,,-83.26100292,42.3404709,,,,,,,,TRUE
+ETH Zurich,FALSE,TRUE,,,,"47.37681028832804, 8.546083047707475",,both,,8.546083048,47.37681029,,,,,,,,TRUE
+Emory University,FALSE,TRUE,139658,,,,,both,139658,-84.325512,33.790183,139658,Emory University,Atlanta,FALSE,FALSE,FALSE,Four or more years,TRUE
+"Eureka Scientific, Inc.",FALSE,TRUE,,,,"37.80361320952105, -122.20855496250502",,both,,-122.208555,37.80361321,,,,,,,,TRUE
+Florida International University,TRUE,TRUE,133951,,,,,both,133951,-80.373928,25.75732,133951,Florida International University,Miami,FALSE,FALSE,TRUE,Four or more years,TRUE
+Florida State University,TRUE,TRUE,134097,,,,,both,134097,-84.291921,30.440756,134097,Florida State University,Tallahassee,FALSE,FALSE,FALSE,Four or more years,TRUE
+George Washington University,FALSE,TRUE,131469,,,,,both,131469,-77.048363,38.89923,131469,George Washington University,Washington,FALSE,FALSE,FALSE,Four or more years,TRUE
+Georgia Institute of Technology,TRUE,TRUE,139755,,,,,both,139755,-84.394832,33.77242,139755,Georgia Institute of Technology-Main Campus,Atlanta,FALSE,FALSE,FALSE,Four or more years,TRUE
+Great Plains Network,TRUE,TRUE,,,,"38.96020722423101, -92.37501414681599",,both,,-92.37501415,38.96020722,,,,,,,,TRUE
+Icahn School of Medicine at Mount Sinai,FALSE,TRUE,193405,,,,,both,193405,-73.952414,40.790359,193405,Icahn School of Medicine at Mount Sinai,New York,FALSE,FALSE,FALSE,Four or more years,TRUE
+Illinois Institute of Technology,TRUE,TRUE,145725,,,,,both,145725,-87.627321,41.8313,145725,Illinois Institute of Technology,Chicago,FALSE,FALSE,FALSE,Four or more years,TRUE
+Indiana University,TRUE,TRUE,151351,TRUE,,,,both,151351,-86.526559,39.16609,151351,Indiana University-Bloomington,Bloomington,FALSE,FALSE,FALSE,Four or more years,TRUE
+Internet2,TRUE,TRUE,,,,"42.30056774990911, -83.69116297911587",,both,,-83.69116298,42.30056775,,,,,,,,TRUE
+Jefferson Lab,FALSE,TRUE,,,,"42.42809723174292, -71.06263934068431",,both,,-71.06263934,42.42809723,,,,,,,,TRUE
+Kansas State University,TRUE,TRUE,155399,,,,,both,155399,-96.581077,39.188648,155399,Kansas State University,Manhattan,FALSE,FALSE,FALSE,Four or more years,TRUE
+Kennesaw State University,TRUE,TRUE,486840,,,,,both,486840,-84.583052,34.038807,486840,Kennesaw State University,Kennesaw,FALSE,FALSE,FALSE,Four or more years,TRUE
+Lancaster University,FALSE,TRUE,,,,"54.010350047365925, -2.7878366906832084",,both,,-2.787836691,54.01035005,,,,,,,,TRUE
+Louisiana State University,TRUE,TRUE,159391,,,,,both,159391,-91.178921,30.414986,159391,Louisiana State University and Agricultural & Mechanical College,Baton Rouge,FALSE,FALSE,FALSE,Four or more years,TRUE
+Loyola University Chicago,FALSE,TRUE,146719,,,,,both,146719,-87.656872,42.000765,146719,Loyola University Chicago,Chicago,FALSE,FALSE,FALSE,Four or more years,TRUE
+Massachusetts Institute of Technology,TRUE,TRUE,166683,,,,,both,166683,-71.093226,42.359243,166683,Massachusetts Institute of Technology,Cambridge,FALSE,FALSE,FALSE,Four or more years,TRUE
+NIAID/NIH,FALSE,TRUE,,,,"39.06198792270001, -77.11209331707572",,both,,-77.11209332,39.06198792,,,,,,,,TRUE
+National Institute of Allergy and Infectious Diseases,FALSE,TRUE,,,,"39.061802364780476, -77.11128549855769",,both,,-77.1112855,39.06180236,,,,,,,,TRUE
+National Oceanic and Atmospheric Administration,FALSE,TRUE,,,,"38.892957330048134, -77.03270474527838",,both,,-77.03270475,38.89295733,,,,,,,,TRUE
+New Jersey Institute of Technology,FALSE,TRUE,185828,,,,,both,185828,-74.177113,40.741997,185828,New Jersey Institute of Technology,Newark,FALSE,FALSE,FALSE,Four or more years,TRUE
+New Mexico State University,TRUE,TRUE,188030,,,,,both,188030,-106.752069,32.281568,188030,New Mexico State University-Main Campus,Las Cruces,FALSE,FALSE,TRUE,Four or more years,TRUE
+North Carolina State University,TRUE,TRUE,199193,,,,,both,199193,-78.674517,35.785111,199193,North Carolina State University at Raleigh,Raleigh,FALSE,FALSE,FALSE,Four or more years,TRUE
+Northeastern University,TRUE,TRUE,167358,,,,,both,167358,-71.088782,42.339992,167358,Northeastern University,Boston,FALSE,FALSE,FALSE,Four or more years,TRUE
+Portland State University,TRUE,TRUE,209807,,,,,both,209807,-122.686289,45.511601,209807,Portland State University,Portland,FALSE,FALSE,FALSE,Four or more years,TRUE
+Rensselaer Polytechnic Institute,FALSE,TRUE,194824,,,,,both,194824,-73.676646,42.729978,194824,Rensselaer Polytechnic Institute,Troy,FALSE,FALSE,FALSE,Four or more years,TRUE
+Rice University,TRUE,TRUE,227757,,,,,both,227757,-95.402035,29.717897,227757,Rice University,Houston,FALSE,FALSE,FALSE,Four or more years,TRUE
+Rochester Institute of Technology,TRUE,TRUE,195003,,,,,both,195003,-77.67386,43.084188,195003,Rochester Institute of Technology,Rochester,FALSE,FALSE,FALSE,Four or more years,TRUE
+SUNY Upstate Medical University,FALSE,TRUE,196307,,,,,both,196307,-76.140009,43.041819,196307,Upstate Medical University,Syracuse,FALSE,FALSE,FALSE,Four or more years,TRUE
+Stanford University,TRUE,TRUE,243744,,,,,both,243744,-122.167359,37.429434,243744,Stanford University,Stanford,FALSE,FALSE,FALSE,Four or more years,TRUE
+Steadman Philippon Research Institute,FALSE,TRUE,,,,"39.64300596351337, -106.38163156059336",,both,,-106.3816316,39.64300596,,,,,,,,TRUE
+Syracuse University,TRUE,TRUE,196413,,,,,both,196413,-76.136975,43.040176,196413,Syracuse University,Syracuse,FALSE,FALSE,FALSE,Four or more years,TRUE
+The College of New Jersey,TRUE,TRUE,187134,,,,,both,187134,-74.778791,40.268651,187134,The College of New Jersey,Ewing,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Arizona,TRUE,TRUE,104179,,,,,both,104179,-110.950815,32.232672,104179,University of Arizona,Tucson,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Arkansas,TRUE,TRUE,106397,,,,,both,106397,-94.176981,36.070009,106397,University of Arkansas,Fayetteville,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Arkansas at Little Rock,TRUE,TRUE,106245,,,,,both,106245,-92.339778,34.723254,106245,University of Arkansas at Little Rock,Little Rock,FALSE,FALSE,FALSE,Four or more years,TRUE
+"University of California, Berkeley",FALSE,TRUE,110635,,,,,both,110635,-122.260463,37.871918,110635,University of California-Berkeley,Berkeley,FALSE,FALSE,FALSE,Four or more years,TRUE
+"University of California, Merced",FALSE,TRUE,445188,,,,,both,445188,-120.424944,37.366237,445188,University of California-Merced,Merced,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Central Florida,FALSE,TRUE,132903,,,,,both,132903,-81.200889,28.602159,132903,University of Central Florida,Orlando,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Colorado Anschutz Medical Campus,FALSE,TRUE,126562,,,,,both,126562,-104.837722,39.745149,126562,University of Colorado Denver/Anschutz Medical Campus,Denver,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Colorado Denver,TRUE,TRUE,128300,,,,,both,128300,-104.983277,39.74521,,,,,,,,TRUE
+University of Connecticut,TRUE,TRUE,129020,,,,,both,129020,-72.249948,41.809098,129020,University of Connecticut,Storrs,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Iowa,TRUE,TRUE,153658,,,,,both,153658,-91.536425,41.661935,153658,University of Iowa,Iowa City,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Massachusetts Lowell,FALSE,TRUE,166513,,,,,both,166513,-71.326809,42.652864,166513,University of Massachusetts-Lowell,Lowell,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Michigan,TRUE,TRUE,170976,TRUE,,,,both,170976,-83.742769,42.275921,170976,University of Michigan-Ann Arbor,Ann Arbor,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Montana,FALSE,TRUE,180489,,,,,both,180489,-113.982912,46.859312,180489,The University of Montana,Missoula,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of New Mexico,TRUE,TRUE,187985,,,,,both,187985,-106.620155,35.083868,187985,University of New Mexico-Main Campus,Albuquerque,FALSE,FALSE,TRUE,Four or more years,TRUE
+University of Oregon,FALSE,TRUE,209551,,,,,both,209551,-123.075792,44.045146,209551,University of Oregon,Eugene,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Pittsburgh,TRUE,TRUE,215293,,,,,both,215293,-79.953254,40.444388,215293,University of Pittsburgh-Pittsburgh Campus,Pittsburgh,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Puerto Rico - Mayaguez,TRUE,TRUE,243197,,,,,both,243197,-67.139172,18.211142,243197,University of Puerto Rico-Mayaguez,Mayaguez,FALSE,FALSE,TRUE,Four or more years,TRUE
+University of Rochester,FALSE,TRUE,195030,,,,,both,195030,-77.631202,43.126397,195030,University of Rochester,Rochester,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of South Carolina,FALSE,TRUE,218663,,,,,both,218663,-81.026935,33.996788,218663,University of South Carolina-Columbia,Columbia,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of South Dakota,TRUE,TRUE,219471,,,,,both,219471,-96.925283,42.786019,219471,University of South Dakota,Vermillion,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Texas at Austin,TRUE,TRUE,228778,,,,,both,228778,-97.738273,30.282825,228778,The University of Texas at Austin,Austin,FALSE,FALSE,FALSE,Four or more years,TRUE
+University of Utah,TRUE,TRUE,230764,,,,,both,230764,-111.846044,40.762484,230764,University of Utah,Salt Lake City,FALSE,FALSE,FALSE,Four or more years,TRUE
+Utah State University,FALSE,TRUE,230728,,,,,both,230728,-111.81391,41.740748,230728,Utah State University,Logan,FALSE,FALSE,FALSE,Four or more years,TRUE
+Villanova University,TRUE,TRUE,216597,,,,,both,216597,-75.340502,40.036463,216597,Villanova University,Villanova,FALSE,FALSE,FALSE,Four or more years,TRUE
+Wayne State University,TRUE,TRUE,172644,,,,,both,172644,-83.068998,42.358994,172644,Wayne State University,Detroit,FALSE,FALSE,FALSE,Four or more years,TRUE
+Wichita State University,FALSE,TRUE,156125,,,,,both,156125,-97.292361,37.718882,156125,Wichita State University,Wichita,FALSE,FALSE,FALSE,Four or more years,TRUE

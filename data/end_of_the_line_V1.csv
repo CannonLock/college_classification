@@ -1,0 +1,398 @@
+,Institution Name,Has Resource(s),Has Project(s),IPEDS,Weird Stuff,NCES,"Google Lat, Lon",UNITID,LON,LAT,unitid,name,city,hbcu,tribal,msi,iclevel,hbcu_or_tribal_resource,not_hbcu_or_tribal_but_msi_resource,not_msi_and_not_iclevel_1_resource,active_project_in_ospool,hbcu_or_tribal_project,not_hbcu_or_tribal_but_msi_project,not_msi_and_not_iclevel_1_project
+0,University of Alabama at Birmingham,True,False,100663.0,,,,100663.0,-86.799345,33.505697,100663.0,University of Alabama at Birmingham,Birmingham,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+1,The University of Alabama at Birmingham,False,True,100663.0,,,,100663.0,-86.799345,33.505697,100663.0,University of Alabama at Birmingham,Birmingham,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+2,University of Alabama,True,True,100751.0,,,,100751.0,-87.545978,33.211875,100751.0,The University of Alabama,Tuscaloosa,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+3,University of Alaska Fairbanks,False,True,102614.0,,,,102614.0,-147.823146,64.85756,102614.0,University of Alaska Fairbanks,Fairbanks,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+4,University of Arizona,True,True,104179.0,,,,104179.0,-110.950815,32.232672,104179.0,University of Arizona,Tucson,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+5,University of Arkansas at Little Rock,True,True,106245.0,,,,106245.0,-92.339778,34.723254,106245.0,University of Arkansas at Little Rock,Little Rock,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+6,University of Arkansas,True,True,106397.0,,,,106397.0,-94.176981,36.070009,106397.0,University of Arkansas,Fayetteville,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+7,California Institute of Technology,True,True,110404.0,,,,110404.0,-118.125878,34.137349,110404.0,California Institute of Technology,Pasadena,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+8,Caltech,False,True,110404.0,,,,110404.0,-118.125878,34.137349,110404.0,California Institute of Technology,Pasadena,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+9,"California State University, San Bernadino",False,True,110510.0,,,,110510.0,-117.323801,34.182622,110510.0,California State University-San Bernardino,San Bernardino,2.0,2.0,1.0,1.0,False,False,False,True,False,True,False
+10,"California State University, Fresno",True,False,110556.0,,,,110556.0,-119.744569,36.811154,110556.0,California State University-Fresno,Fresno,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+11,Fresno State University,False,True,110556.0,,,,110556.0,-119.744569,36.811154,110556.0,California State University-Fresno,Fresno,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+12,"California State University, Northridge",False,True,110608.0,,,,110608.0,-118.529319,34.240126,110608.0,California State University-Northridge,Northridge,2.0,2.0,1.0,1.0,False,False,False,True,False,True,False
+13,"University of California, Berkeley",False,True,110635.0,,,,110635.0,-122.260463,37.871918,110635.0,University of California-Berkeley,Berkeley,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+14,University of California Davis,True,False,110644.0,,,,110644.0,-121.749567,38.539667,110644.0,University of California-Davis,Davis,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+15,"University of California, Davis",False,True,110644.0,,,,110644.0,-121.749567,38.539667,110644.0,University of California-Davis,Davis,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+16,UC Irvine,True,False,110653.0,,,,110653.0,-117.841248,33.648434,110653.0,University of California-Irvine,Irvine,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+17,"University of California, Irvine",False,True,110653.0,,,,110653.0,-117.841248,33.648434,110653.0,University of California-Irvine,Irvine,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+18,University of California Los Angeles,True,False,110662.0,True,,,110662.0,-118.442179,34.07178,110662.0,University of California-Los Angeles,Los Angeles,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+19,"University of California, Los Angeles",False,True,110662.0,True,,,110662.0,-118.442179,34.07178,110662.0,University of California-Los Angeles,Los Angeles,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+20,University of California Riverside,True,False,110671.0,True,,,110671.0,-117.32741,33.97246,110671.0,University of California-Riverside,Riverside,2.0,2.0,1.0,1.0,False,True,False,False,False,False,False
+21,"University of California, Riverside",False,True,110671.0,True,,,110671.0,-117.32741,33.97246,110671.0,University of California-Riverside,Riverside,2.0,2.0,1.0,1.0,False,False,False,True,False,True,False
+22,University of California San Diego,True,False,110680.0,True,,,110680.0,-117.235866,32.877749,110680.0,University of California-San Diego,La Jolla,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+23,"University of California, San Diego",False,True,110680.0,True,,,110680.0,-117.235866,32.877749,110680.0,University of California-San Diego,La Jolla,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+24,"University of California, San Francisco",False,True,110699.0,,,,110699.0,-122.458489,37.763737,110699.0,University of California-San Francisco,San Francisco,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+25,UC Santa Barbara,True,False,110705.0,True,,,110705.0,-119.846426,34.416297,110705.0,University of California-Santa Barbara,Santa Barbara,2.0,2.0,1.0,1.0,False,True,False,False,False,False,False
+27,"University of California, Santa Barbara",False,True,110705.0,,,,110705.0,-119.846426,34.416297,110705.0,University of California-Santa Barbara,Santa Barbara,2.0,2.0,1.0,1.0,False,False,False,False,False,False,False
+28,University of California Santa Cruz,True,True,110714.0,True,,,110714.0,-122.058801,36.995584,110714.0,University of California-Santa Cruz,Santa Cruz,2.0,2.0,1.0,1.0,False,True,False,True,False,True,False
+29,"University of California, Santa Cruz",False,True,110714.0,True,,,110714.0,-122.058801,36.995584,110714.0,University of California-Santa Cruz,Santa Cruz,2.0,2.0,1.0,1.0,False,False,False,True,False,True,False
+30,San Diego State University,False,True,122409.0,,,,122409.0,-117.071228,32.77525,122409.0,San Diego State University,San Diego,2.0,2.0,1.0,1.0,False,False,False,True,False,True,False
+31,Santa Clara University,False,True,122931.0,,,,122931.0,-121.93784,37.348362,122931.0,Santa Clara University,Santa Clara,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+32,University of Southern California,True,True,123961.0,,,,123961.0,-118.284169,34.021281,123961.0,University of Southern California,Los Angeles,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+33,University of Colorado Anschutz Medical Campus,False,True,126562.0,,,,126562.0,-104.837722,39.745149,126562.0,University of Colorado Denver/Anschutz Medical Campus,Denver,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+34,University of Colorado Boulder,False,True,126614.0,,,,126614.0,-105.270823,40.008781,126614.0,University of Colorado Boulder,Boulder,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+35,University of Colorado,True,True,126614.0,,,,126614.0,-105.270823,40.008781,126614.0,University of Colorado Boulder,Boulder,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+36,Colorado School of Mines,False,True,126775.0,,,,126775.0,-105.223364,39.751443,126775.0,Colorado School of Mines,Golden,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+37,Colorado State University,False,True,126818.0,,,,126818.0,-105.080732,40.574805,126818.0,Colorado State University-Fort Collins,Fort Collins,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+38,University of Colorado Denver,True,True,128300.0,,,,128300.0,-104.983277,39.74521,,,,,,,,False,False,False,True,False,False,False
+39,University of Connecticut,True,True,129020.0,,,,129020.0,-72.249948,41.809098,129020.0,University of Connecticut,Storrs,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+40,Fairfield,False,True,129242.0,,,,129242.0,-73.255903,41.157673,129242.0,Fairfield University,Fairfield,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+41,University of New Haven,False,True,129941.0,,,,129941.0,-72.961472,41.291314,129941.0,University of New Haven,West Haven,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+42,Wesleyan University,False,True,130697.0,,,,130697.0,-72.657146,41.554665,130697.0,Wesleyan University,Middletown,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+43,Yale University,False,True,130794.0,,,,130794.0,-72.926688,41.311158,130794.0,Yale University,New Haven,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+44,University of Delaware,False,True,130943.0,,,,130943.0,-75.752822,39.679577,130943.0,University of Delaware,Newark,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+45,George Washington University,False,True,131469.0,,,,131469.0,-77.048363,38.89923,131469.0,George Washington University,Washington,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+46,University of Central Florida,False,True,132903.0,,,,132903.0,-81.200889,28.602159,132903.0,University of Central Florida,Orlando,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+47,Florida A&M University,True,False,133650.0,,,,133650.0,-84.290226,30.428504,133650.0,Florida Agricultural and Mechanical University,Tallahassee,1.0,2.0,1.0,1.0,True,False,False,False,False,False,False
+48,Florida Institute of Technology,True,True,133881.0,,,,133881.0,-80.622893,28.065815,133881.0,Florida Institute of Technology,Melbourne,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+49,Florida International University,True,True,133951.0,,,,133951.0,-80.373928,25.75732,133951.0,Florida International University,Miami,2.0,2.0,1.0,1.0,False,True,False,True,False,True,False
+50,Florida State University,True,True,134097.0,,,,134097.0,-84.291921,30.440756,134097.0,Florida State University,Tallahassee,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+51,University of Florida,True,True,134130.0,,,,134130.0,-82.347911,29.64629,134130.0,University of Florida,Gainesville,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+52,University of South Florida,True,True,137351.0,,,,137351.0,-82.413232,28.061458,137351.0,University of South Florida,Tampa,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+53,Emory University,False,True,139658.0,,,,139658.0,-84.325512,33.790183,139658.0,Emory University,Atlanta,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+54,Georgia Institute of Technology,True,True,139755.0,,,,139755.0,-84.394832,33.77242,139755.0,Georgia Institute of Technology-Main Campus,Atlanta,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+55,Georgia State University,True,True,139940.0,,,,139940.0,-84.38667,33.7527,139940.0,Georgia State University,Atlanta,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+56,University of Georgia,True,False,139959.0,,,,139959.0,-83.374039,33.956262,139959.0,University of Georgia,Athens,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+57,Spelman College,False,True,141060.0,,,,141060.0,-84.411527,33.745279,141060.0,Spelman College,Atlanta,1.0,2.0,1.0,1.0,False,False,False,True,True,False,False
+58,University of Hawaii at Manoa,False,True,141574.0,,,,141574.0,-157.818979,21.298598,141574.0,University of Hawaii at Manoa,Honolulu,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+59,University of Hawaii,True,True,141574.0,True,,,141574.0,-157.818979,21.298598,141574.0,University of Hawaii at Manoa,Honolulu,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+60,Boise State University,False,True,142115.0,,,,142115.0,-116.203301,43.604284,142115.0,Boise State University,Boise,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+61,Chicago State University,False,True,144005.0,,,,144005.0,-87.609384,41.718446,144005.0,Chicago State University,Chicago,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+62,University of Chicago,True,True,144050.0,,,,144050.0,-87.599539,41.787994,144050.0,University of Chicago,Chicago,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+63,The University of Chicago,False,True,144050.0,,,,144050.0,-87.599539,41.787994,144050.0,University of Chicago,Chicago,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+64,University of Illinois Chicago,True,True,145600.0,,,,145600.0,-87.650503,41.871837,145600.0,University of Illinois Chicago,Chicago,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+65,University of Illinois Urbana-Champaign,False,True,145637.0,,,,145637.0,-88.229114,40.104718,145637.0,University of Illinois Urbana-Champaign,Champaign,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+67,University of Illinois at Urbana Champaign,True,False,145637.0,True,,,145637.0,-88.229114,40.104718,145637.0,University of Illinois Urbana-Champaign,Champaign,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+68,Illinois Institute of Technology,True,True,145725.0,,,,145725.0,-87.627321,41.8313,145725.0,Illinois Institute of Technology,Chicago,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+69,Loyola University Chicago,False,True,146719.0,,,,146719.0,-87.656872,42.000765,146719.0,Loyola University Chicago,Chicago,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+70,Northern Illinois University,True,True,147703.0,,,,147703.0,-88.766428,41.933869,147703.0,Northern Illinois University,Dekalb,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+71,Northwestern University,True,True,147767.0,,,,147767.0,-87.679858,42.050356,147767.0,Northwestern University,Evanston,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+72,Southern Illinois University,False,True,149222.0,,,,149222.0,-89.217273,37.714193,149222.0,Southern Illinois University-Carbondale,Carbondale,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+73,Southern Illinois University Edwardsville,True,True,149231.0,,,,149231.0,-89.997779,38.793949,149231.0,Southern Illinois University-Edwardsville,Edwardsville,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+74,Purdue University,True,True,151111.0,,,,151111.0,-86.172217,39.772948,151111.0,Indiana University-Purdue University-Indianapolis,Indianapolis,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+75,Indiana University,True,True,151351.0,True,,,151351.0,-86.526559,39.16609,151351.0,Indiana University-Bloomington,Bloomington,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+76,University of Notre Dame,True,True,152080.0,,,,152080.0,-86.238959,41.703058,152080.0,University of Notre Dame,Notre Dame,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+77,Coe College,False,True,153144.0,,,,153144.0,-91.658192,41.988263,153144.0,Coe College,Cedar Rapids,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+78,Iowa State University,True,True,153603.0,,,,153603.0,-93.648504,42.026212,153603.0,Iowa State University,Ames,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+79,University of Iowa,True,True,153658.0,,,,153658.0,-91.536425,41.661935,153658.0,University of Iowa,Iowa City,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+80,University of Northern Iowa,True,False,154095.0,,,,154095.0,-92.459703,42.514923,154095.0,University of Northern Iowa,Cedar Falls,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+81,Kansas University,True,False,155317.0,,,,155317.0,-95.247567,38.958549,155317.0,University of Kansas,Lawrence,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+82,The University of Kansas,False,True,155317.0,,,,155317.0,-95.247567,38.958549,155317.0,University of Kansas,Lawrence,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+83,Kansas State University,True,True,155399.0,,,,155399.0,-96.581077,39.188648,155399.0,Kansas State University,Manhattan,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+84,Wichita State University,False,True,156125.0,,,,156125.0,-97.292361,37.718882,156125.0,Wichita State University,Wichita,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+85,Bellarmine University,True,False,156286.0,,,,156286.0,-85.704997,38.219279,156286.0,Bellarmine University,Louisville,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+86,Centre College,False,True,156408.0,,,,156408.0,-84.779392,37.645709,156408.0,Centre College,Danville,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+87,Kent State University,True,True,157058.0,,,,157058.0,-84.855402,38.201427,157058.0,Kentucky State University,Frankfort,1.0,2.0,1.0,1.0,True,False,False,True,True,False,False
+88,University of Kentucky,False,True,157085.0,,,,157085.0,-84.504747,38.038911,157085.0,University of Kentucky,Lexington,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+89,University of Louisville,False,True,157289.0,,,,157289.0,-85.760412,38.216862,157289.0,University of Louisville,Louisville,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+90,LSU School of Public Health,False,True,159373.0,True,,,159373.0,-90.083145,29.957272,159373.0,Louisiana State University Health Sciences Center-New Orleans,New Orleans,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+91,Louisiana State University Health Sciences Center,True,True,159373.0,True,,,159373.0,-90.083145,29.957272,159373.0,Louisiana State University Health Sciences Center-New Orleans,New Orleans,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+92,Louisiana State University,True,True,159391.0,,,,159391.0,-91.178921,30.414986,159391.0,Louisiana State University and Agricultural & Mechanical College,Baton Rouge,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+93,Louisiana Tech University,True,True,159647.0,,,,159647.0,-92.649963,32.528297,159647.0,Louisiana Tech University,Ruston,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+94,Nicholls State University,False,True,159966.0,,,,159966.0,-90.801571,29.794486,159966.0,Nicholls State University,Thibodaux,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+95,University of Maine,True,True,161253.0,,,,161253.0,-68.669332,44.899257,161253.0,University of Maine,Orono,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+96,University of New England,False,True,161457.0,,,,161457.0,-70.38535,43.458591,161457.0,University of New England,Biddeford,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+97,Johns Hopkins University,False,True,162928.0,,,,162928.0,-76.621595,39.328977,162928.0,Johns Hopkins University,Baltimore,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+99,University of Maryland Baltimore,False,True,163259.0,,,,163259.0,-76.623983,39.286864,163259.0,"University of Maryland, Baltimore",Baltimore,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+100,University of Maryland,True,True,163286.0,True,,,163286.0,-76.944721,38.988178,163286.0,University of Maryland-College Park,College Park,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+101,University of Maryland Center for Environmental Science,False,True,163286.0,True,,,163286.0,-76.944721,38.988178,163286.0,University of Maryland-College Park,College Park,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+102,Boston College,False,True,164924.0,,,,164924.0,-71.169242,42.336213,164924.0,Boston College,Chestnut Hill,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+103,Boston University,True,True,164988.0,,,,164988.0,-71.107942,42.351118,164988.0,Boston University,Boston,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+104,Brandeis University,True,True,165015.0,,,,165015.0,-71.260155,42.365727,165015.0,Brandeis University,Waltham,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+105,Harvard University,True,True,166027.0,,,,166027.0,-71.118313,42.374471,166027.0,Harvard University,Cambridge,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+107,University of Massachusetts Lowell,False,True,166513.0,,,,166513.0,-71.326809,42.652864,166513.0,University of Massachusetts-Lowell,Lowell,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+108,University of Massachusetts,False,True,166629.0,True,,,166629.0,-72.526728,42.385999,166629.0,University of Massachusetts-Amherst,Amherst,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+109,University of Massachusetts - Amherst,True,False,166629.0,True,,,166629.0,-72.526728,42.385999,166629.0,University of Massachusetts-Amherst,Amherst,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+111,University of Massachusetts Boston,False,True,166638.0,,,,166638.0,-71.036865,42.312881,166638.0,University of Massachusetts-Boston,Boston,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+112,Massachusetts Institute of Technology,True,True,166683.0,,,,166683.0,-71.093226,42.359243,166683.0,Massachusetts Institute of Technology,Cambridge,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+113,Northeastern University,True,True,167358.0,,,,167358.0,-71.088782,42.339992,167358.0,Northeastern University,Boston,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+114,Salem State University,False,True,167729.0,,,,167729.0,-70.890234,42.503575,167729.0,Salem State University,Salem,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+115,Tufts University,True,True,168148.0,,,,168148.0,-71.118293,42.40855,168148.0,Tufts University,Medford,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+116,Worcester Polytechnic Institute,False,True,168421.0,,,,168421.0,-71.808339,42.274853,168421.0,Worcester Polytechnic Institute,Worcester,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+117,University of Michigan,True,True,170976.0,True,,,170976.0,-83.742769,42.275921,170976.0,University of Michigan-Ann Arbor,Ann Arbor,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+118,Michigan State University,False,True,171100.0,,,,171100.0,-84.476111,42.73212,171100.0,Michigan State University,East Lansing,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+119,Michigan State University High Energy Physics,True,False,171100.0,,,,171100.0,-84.476111,42.73212,171100.0,Michigan State University,East Lansing,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+120,Michigan Technological University,False,True,171128.0,,,,171128.0,-88.548092,47.11866,171128.0,Michigan Technological University,Houghton,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+121,Wayne State University,True,True,172644.0,,,,172644.0,-83.068998,42.358994,172644.0,Wayne State University,Detroit,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+122,University of Minnesota,True,True,174066.0,,,,174066.0,-93.235464,44.972851,174066.0,University of Minnesota-Twin Cities,Minneapolis,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+123,University of Minnesota Duluth,False,True,174233.0,,,,174233.0,-92.084385,46.817126,174233.0,University of Minnesota-Duluth,Duluth,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+124,University of Mississippi,True,True,176017.0,,,,176017.0,-89.537434,34.365529,176017.0,University of Mississippi,University,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+125,University of Mississipi,False,True,176017.0,,,,176017.0,-89.537434,34.365529,176017.0,University of Mississippi,University,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+126,University of Missouri-Columbia,False,True,178396.0,,,,178396.0,-92.328843,38.94531,178396.0,University of Missouri-Columbia,Columbia,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+128,Missouri University of Science and Technology,False,True,178411.0,,,,178411.0,-91.775583,37.953426,178411.0,Missouri University of Science and Technology,Rolla,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+129,Northwest Missouri State University,False,True,178624.0,,,,178624.0,-94.883339,40.351692,178624.0,Northwest Missouri State University,Maryville,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+130,Washington University in St. Louis,False,True,179867.0,,,,179867.0,-90.310604,38.647929,179867.0,Washington University in St Louis,Saint Louis,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+131,Montana State University,False,True,180461.0,,,,180461.0,-111.048812,45.666726,180461.0,Montana State University,Bozeman,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+132,University of Montana,False,True,180489.0,,,,180489.0,-113.982912,46.859312,180489.0,The University of Montana,Missoula,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+133,Creighton University,False,True,181002.0,,,,181002.0,-95.947811,41.265361,181002.0,Creighton University,Omaha,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+134,Doane University,False,True,181020.0,,,,181020.0,-96.950932,40.622952,181020.0,Doane University,Crete,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+135,University of Nebraska Omaha,False,True,181394.0,,,,181394.0,-96.008516,41.258769,181394.0,University of Nebraska at Omaha,Omaha,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+136,University of Nebraska Medical Center,False,True,181428.0,,,,181428.0,-95.973966,41.256312,181428.0,University of Nebraska Medical Center,Omaha,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+137,University of Nebraska-Lincoln,False,True,181464.0,,,,181464.0,-96.700508,40.817598,181464.0,University of Nebraska-Lincoln,Lincoln,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+138,University of Nebraska,True,True,181464.0,,,,181464.0,-96.700508,40.817598,181464.0,University of Nebraska-Lincoln,Lincoln,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+140,"University of Nevada, Reno",False,True,182290.0,,,,182290.0,-119.815377,39.543642,182290.0,University of Nevada-Reno,Reno,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+141,Dartmouth College,False,True,182670.0,,,,182670.0,-72.289949,43.704115,182670.0,Dartmouth College,Hanover,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+142,Rowan University,False,True,184782.0,,,,184782.0,-75.119119,39.709108,184782.0,Rowan University,Glassboro,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+143,New Jersey Institute of Technology,False,True,185828.0,,,,185828.0,-74.177113,40.741997,185828.0,New Jersey Institute of Technology,Newark,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+144,Princeton University,True,True,186131.0,,,,186131.0,-74.659365,40.348732,186131.0,Princeton University,Princeton,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+145,Rutgers University,True,False,186380.0,True,,,186380.0,-74.446251,40.498769,186380.0,Rutgers University-New Brunswick,New Brunswick,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+146,"Rutgers, The State University of New Jersey",False,True,186380.0,True,,,186380.0,-74.446251,40.498769,186380.0,Rutgers University-New Brunswick,New Brunswick,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+147,The College of New Jersey,True,True,187134.0,,,,187134.0,-74.778791,40.268651,187134.0,The College of New Jersey,Ewing,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+148,University of New Mexico,True,True,187985.0,,,,187985.0,-106.620155,35.083868,187985.0,University of New Mexico-Main Campus,Albuquerque,2.0,2.0,1.0,1.0,False,True,False,True,False,True,False
+149,New Mexico State University,True,True,188030.0,,,,188030.0,-106.752069,32.281568,188030.0,New Mexico State University-Main Campus,Las Cruces,2.0,2.0,1.0,1.0,False,True,False,True,False,True,False
+150,Canisius College,False,True,189705.0,,,,189705.0,-78.852577,42.925206,189705.0,Canisius College,Buffalo,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+151,Clarkson University,True,True,190044.0,,,,190044.0,-74.999359,44.662716,190044.0,Clarkson University,Potsdam,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+152,Columbia University,False,True,190150.0,,,,190150.0,-73.961885,40.808286,190150.0,Columbia University in the City of New York,New York,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+153,Columbia University_Nevis Labs,True,False,190150.0,True,,,190150.0,-73.961885,40.808286,190150.0,Columbia University in the City of New York,New York,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+154,Cornell University,True,True,190415.0,,,,190415.0,-76.483084,42.4472,190415.0,Cornell University,Ithaca,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+155,CUNY Brooklyn College,False,True,190549.0,,,,190549.0,-73.949898,40.631517,190549.0,CUNY Brooklyn College,Brooklyn,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+156,CUNY Graduate Center,True,False,190567.0,,,,190567.0,-73.948542,40.819846,190567.0,CUNY City College,New York,2.0,2.0,1.0,1.0,False,True,False,False,False,False,False
+157,Hobart and William Smith Colleges,False,True,191630.0,,,,191630.0,-76.985516,42.858131,191630.0,Hobart William Smith Colleges,Geneva,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+158,Icahn School of Medicine at Mount Sinai,False,True,193405.0,,,,193405.0,-73.952414,40.790359,193405.0,Icahn School of Medicine at Mount Sinai,New York,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+159,New York University,True,True,193900.0,,,,193900.0,-73.997264,40.729452,193900.0,New York University,New York,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+160,Niagara University,True,False,193973.0,,,,193973.0,-79.036689,43.137279,193973.0,Niagara University,Niagara University,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+161,Rensselaer Polytechnic Institute,False,True,194824.0,,,,194824.0,-73.676646,42.729978,194824.0,Rensselaer Polytechnic Institute,Troy,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+162,Rochester Institute of Technology,True,True,195003.0,,,,195003.0,-77.67386,43.084188,195003.0,Rochester Institute of Technology,Rochester,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+163,University of Rochester,False,True,195030.0,,,,195030.0,-77.631202,43.126397,195030.0,University of Rochester,Rochester,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+164,Rockefeller University,False,True,195049.0,,,,195049.0,-73.955198,40.762489,195049.0,Rockefeller University,New York,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+165,Siena College,False,True,195474.0,,,,195474.0,-73.7526,42.717602,195474.0,Siena College,Loudonville,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+166,SUNY Albany,True,False,196060.0,True,,,196060.0,-73.824662,42.685489,196060.0,SUNY at Albany,Albany,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+167,State University of New York at Albany,False,True,196060.0,True,,,196060.0,-73.824662,42.685489,196060.0,SUNY at Albany,Albany,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+169,State University of New York at Binghamton,False,True,196079.0,,,,196079.0,-75.966889,42.087868,196079.0,Binghamton University,Vestal,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+170,Stony Brook University,True,False,196097.0,,,,196097.0,-73.12046,40.91476,196097.0,Stony Brook University,Stony Brook,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+171,State University of New York at Stony Brook,False,True,196097.0,,,,196097.0,-73.12046,40.91476,196097.0,Stony Brook University,Stony Brook,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+172,State University of New York at Buffalo,False,True,196130.0,True,,,196130.0,-78.882125,42.933832,196130.0,SUNY Buffalo State,Buffalo,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+173,University of Buffalo,True,False,196130.0,True,,,196130.0,-78.882125,42.933832,196130.0,SUNY Buffalo State,Buffalo,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+174,SUNY Geneseo,True,False,196167.0,,,,196167.0,-77.821894,42.796645,196167.0,SUNY College at Geneseo,Geneseo,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+175,SUNY Upstate Medical University,False,True,196307.0,,,,196307.0,-76.140009,43.041819,196307.0,Upstate Medical University,Syracuse,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+176,Syracuse University,True,True,196413.0,,,,196413.0,-76.136975,43.040176,196413.0,Syracuse University,Syracuse,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+177,Duke University,False,True,198419.0,,,,198419.0,-78.937624,36.001135,198419.0,Duke University,Durham,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+178,Duke_University,True,False,198419.0,,,,198419.0,-78.937624,36.001135,198419.0,Duke University,Durham,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+179,University of North Carolina at Chapel Hill,False,True,199120.0,,,,199120.0,-79.050969,35.911769,199120.0,University of North Carolina at Chapel Hill,Chapel Hill,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+181,University of North Carolina,True,False,199120.0,,,,199120.0,-79.050969,35.911769,199120.0,University of North Carolina at Chapel Hill,Chapel Hill,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+183,North Carolina State University,True,True,199193.0,,,,199193.0,-78.674517,35.785111,199193.0,North Carolina State University at Raleigh,Raleigh,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+184,University of North Dakota,False,True,200280.0,,,,200280.0,-97.071738,47.921654,200280.0,University of North Dakota,Grand Forks,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+185,North Dakota State University,True,True,200332.0,,,,200332.0,-96.800838,46.893127,200332.0,North Dakota State University-Main Campus,Fargo,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+186,Case Western Reserve University,False,True,201645.0,,,,201645.0,-81.609596,41.507419,201645.0,Case Western Reserve University,Cleveland,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+187,University of Cincinnati,False,True,201885.0,,,,201885.0,-84.51428,39.131159,201885.0,University of Cincinnati-Main Campus,Cincinnati,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+188,Ohio State University,False,True,204796.0,True,,,204796.0,-83.014853,39.999324,204796.0,Ohio State University-Main Campus,Columbus,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+189,The Ohio State University,True,True,204796.0,True,,,204796.0,-83.014853,39.999324,204796.0,Ohio State University-Main Campus,Columbus,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+190,University of Toledo,False,True,206084.0,,,,206084.0,-83.614714,41.660572,206084.0,University of Toledo,Toledo,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+191,Langston University,True,False,207209.0,,,,207209.0,-97.260317,35.943982,207209.0,Langston University,Langston,1.0,2.0,1.0,1.0,True,False,False,False,False,False,False
+192,Oklahoma State University,True,True,207388.0,,,,207388.0,-97.069743,36.123085,207388.0,Oklahoma State University-Main Campus,Stillwater,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+193,Oklahoma University,False,True,207500.0,,,,207500.0,-97.444211,35.209407,207500.0,University of Oklahoma-Norman Campus,Norman,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+194,University of Oklahoma,True,True,207500.0,,,,207500.0,-97.444211,35.209407,207500.0,University of Oklahoma-Norman Campus,Norman,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+195,Southwest Oklahoma State University,False,True,207865.0,,,,207865.0,-98.707768,35.535281,207865.0,Southwestern Oklahoma State University,Weatherford,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+196,University of Tulsa,False,True,207971.0,,,,207971.0,-95.945941,36.152324,207971.0,University of Tulsa,Tulsa,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+197,Oregon State University,False,True,209542.0,,,,209542.0,-123.274723,44.56395,209542.0,Oregon State University,Corvallis,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+198,University of Oregon,False,True,209551.0,,,,209551.0,-123.075792,44.045146,209551.0,University of Oregon,Eugene,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+199,Portland State University,True,True,209807.0,,,,209807.0,-122.686289,45.511601,209807.0,Portland State University,Portland,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+200,Arcadia University,False,True,211088.0,,,,211088.0,-75.163876,40.092606,211088.0,Arcadia University,Glenside,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+201,Bryn Mawr College,False,True,211273.0,,,,211273.0,-75.313223,40.02736,211273.0,Bryn Mawr College,Bryn Mawr,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+202,Bucknell University,False,True,211291.0,,,,211291.0,-76.882616,40.954317,211291.0,Bucknell University,Lewisburg,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+203,Carnegie-Mellon University,False,True,211440.0,,,,211440.0,-79.941993,40.44357,211440.0,Carnegie Mellon University,Pittsburgh,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+204,Drexel University,False,True,212054.0,,,,212054.0,-75.190051,39.955217,212054.0,Drexel University,Philadelphia,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+205,Duquesne University,False,True,212106.0,,,,212106.0,-79.993123,40.43589,212106.0,Duquesne University,Pittsburgh,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+206,Franklin and Marshall College,True,False,212577.0,,,,212577.0,-76.319037,40.048045,212577.0,Franklin and Marshall College,Lancaster,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+207,Indiana University of Pennsylvania,False,True,213020.0,,,,213020.0,-79.159332,40.617531,213020.0,Indiana University of Pennsylvania-Main Campus,Indiana,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+208,Lafayette College,True,False,213385.0,,,,213385.0,-75.209786,40.69956,213385.0,Lafayette College,Easton,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+209,Lehigh University,True,True,213543.0,,,,213543.0,-75.380236,40.606822,213543.0,Lehigh University,Bethlehem,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+210,University of Pennsylvania,True,True,215062.0,,,,215062.0,-75.19391,39.950929,215062.0,University of Pennsylvania,Philadelphia,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+211,University of Pittsburgh,True,True,215293.0,,,,215293.0,-79.953254,40.444388,215293.0,University of Pittsburgh-Pittsburgh Campus,Pittsburgh,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+212,Susquehanna University,True,False,216278.0,,,,216278.0,-76.875329,40.797502,216278.0,Susquehanna University,Selinsgrove,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+213,Swarthmore College,False,True,216287.0,,,,216287.0,-75.354278,39.905159,216287.0,Swarthmore College,Swarthmore,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+214,Villanova University,True,True,216597.0,,,,216597.0,-75.340502,40.036463,216597.0,Villanova University,Villanova,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+215,West Chester University of Pennsylvania,False,True,216764.0,,,,216764.0,-75.59812,39.953398,216764.0,West Chester University of Pennsylvania,West Chester,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+216,Brown University,True,True,217156.0,,,,217156.0,-71.40385,41.82617,217156.0,Brown University,Providence,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+217,College of Charleston,False,True,217819.0,,,,217819.0,-79.939794,32.784225,217819.0,College of Charleston,Charleston,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+218,The Citadel,False,True,217864.0,,,,217864.0,-79.958775,32.797183,217864.0,Citadel Military College of South Carolina,Charleston,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+219,Clemson University,True,True,217882.0,,,,217882.0,-82.835114,34.679381,217882.0,Clemson University,Clemson,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+220,University of South Carolina,False,True,218663.0,,,,218663.0,-81.026935,33.996788,218663.0,University of South Carolina-Columbia,Columbia,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+221,South Dakota School of Mines and Technology,False,True,219347.0,,,,219347.0,-103.205753,44.075439,219347.0,South Dakota School of Mines and Technology,Rapid City,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+222,South Dakota State University,False,True,219356.0,,,,219356.0,-96.782139,44.317485,219356.0,South Dakota State University,Brookings,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+223,University of South Dakota,True,True,219471.0,,,,219471.0,-96.925283,42.786019,219471.0,University of South Dakota,Vermillion,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+224,Austin Peay State University,False,True,219602.0,,,,219602.0,-87.354081,36.533319,219602.0,Austin Peay State University,Clarksville,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+225,Meharry Medical College,False,True,220792.0,,,,220792.0,-86.807371,36.165458,220792.0,Meharry Medical College,Nashville,1.0,2.0,1.0,1.0,False,False,False,True,True,False,False
+226,Rhodes College,True,False,221351.0,,,,221351.0,-89.990803,35.154405,221351.0,Rhodes College,Memphis,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+227,University of Tennessee Chattanooga,True,False,221740.0,,,,221740.0,-85.300247,35.047519,221740.0,The University of Tennessee-Chattanooga,Chattanooga,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+228,University of Tennessee at Chattanooga,False,True,221740.0,,,,221740.0,-85.300247,35.047519,221740.0,The University of Tennessee-Chattanooga,Chattanooga,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+229,University of Tennessee,False,True,221759.0,,,,221759.0,-83.925852,35.952082,221759.0,The University of Tennessee-Knoxville,Knoxville,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+231,Tennessee Tech University,False,True,221847.0,,,,221847.0,-85.504039,36.174754,221847.0,Tennessee Technological University,Cookeville,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+232,Vanderbilt University,True,True,221999.0,,,,221999.0,-86.803369,36.14659,221999.0,Vanderbilt University,Nashville,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+233,Baylor College of Medicine,False,True,223223.0,,,,223223.0,-95.395743,29.7106,223223.0,Baylor College of Medicine,Houston,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+234,Baylor University,True,True,223232.0,,,,223232.0,-97.121041,31.546872,223232.0,Baylor University,Waco,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+235,Lamar University,True,False,226091.0,,,,226091.0,-94.072244,30.042738,226091.0,Lamar University,Beaumont,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+236,Texas A&M University,True,True,226152.0,,,,226152.0,-99.436043,27.571172,226152.0,Texas A & M International University,Laredo,2.0,2.0,1.0,1.0,False,True,False,True,False,True,False
+237,Rice University,True,True,227757.0,,,,227757.0,-95.402035,29.717897,227757.0,Rice University,Houston,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+238,Southern Methodist University,True,True,228246.0,,,,228246.0,-96.783365,32.843612,228246.0,Southern Methodist University,Dallas,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+239,University of Texas Southwestern Medical Center,False,True,228635.0,,,,228635.0,-96.841156,32.812307,228635.0,University of Texas Southwestern Medical Center,Dallas,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+241,University of Texas Arlington,True,False,228769.0,,,,228769.0,-97.11296,32.729718,228769.0,The University of Texas at Arlington,Arlington,2.0,2.0,1.0,1.0,False,True,False,False,False,False,False
+242,University of Texas at Arlington,False,True,228769.0,,,,228769.0,-97.11296,32.729718,228769.0,The University of Texas at Arlington,Arlington,2.0,2.0,1.0,1.0,False,False,False,True,False,True,False
+243,University of Texas at Austin,True,True,228778.0,,,,228778.0,-97.738273,30.282825,228778.0,The University of Texas at Austin,Austin,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+244,University of Texas at Dallas,True,True,228787.0,,,,228787.0,-96.749702,32.984673,228787.0,The University of Texas at Dallas,Richardson,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+245,University of Texas at El Paso,False,True,228796.0,,,,228796.0,-106.504098,31.77015,228796.0,The University of Texas at El Paso,El Paso,2.0,2.0,1.0,1.0,False,False,False,False,False,False,False
+246,Texas Tech University,True,True,229115.0,,,,229115.0,-101.874783,33.583448,229115.0,Texas Tech University,Lubbock,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+247,West Texas A&M University,True,False,229814.0,,,,229814.0,-101.914736,34.982789,229814.0,West Texas A & M University,Canyon,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+248,Brigham Young University Idaho,False,True,230038.0,,,,230038.0,-111.649281,40.250851,230038.0,Brigham Young University,Provo,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+249,Utah State University,False,True,230728.0,,,,230728.0,-111.81391,41.740748,230728.0,Utah State University,Logan,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+250,University of Utah,True,True,230764.0,,,,230764.0,-111.846044,40.762484,230764.0,University of Utah,Salt Lake City,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+251,University of Vermont,False,True,231174.0,,,,231174.0,-73.196646,44.477325,231174.0,University of Vermont,Burlington,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+252,Hampton University,False,True,232265.0,,,,232265.0,-76.339161,37.019944,232265.0,Hampton University,Hampton,1.0,2.0,1.0,1.0,False,False,False,False,False,False,False
+253,Hampton University PPCF,True,False,232265.0,,,,232265.0,-76.339161,37.019944,232265.0,Hampton University,Hampton,1.0,2.0,1.0,1.0,True,False,False,False,False,False,False
+254,Old Dominion University,True,False,232982.0,,,,232982.0,-76.30666,36.886418,232982.0,Old Dominion University,Norfolk,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+255,Virginia Tech,True,False,233921.0,True,,,233921.0,-80.423675,37.229012,233921.0,Virginia Polytechnic Institute and State University,Blacksburg,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+256,Virginia Tech University,False,True,233921.0,True,,,233921.0,-80.423675,37.229012,233921.0,Virginia Polytechnic Institute and State University,Blacksburg,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+257,University of Virginia,True,True,234076.0,,,,234076.0,-78.503428,38.035665,234076.0,University of Virginia-Main Campus,Charlottesville,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+258,Washington State University,False,True,236939.0,,,,236939.0,-117.158168,46.730448,236939.0,Washington State University,Pullman,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+259,University of Washington,True,True,236948.0,,,,236948.0,-122.30514,47.65538,236948.0,University of Washington-Seattle Campus,Seattle,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+260,Western Washington University,False,True,237011.0,,,,237011.0,-122.485734,48.737812,237011.0,Western Washington University,Bellingham,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+261,University of Wisconsin-Madison,False,True,240444.0,,,,240444.0,-89.404098,43.075409,240444.0,University of Wisconsin-Madison,Madison,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+262,University of Wisconsin,True,False,240444.0,True,,,240444.0,-89.404098,43.075409,240444.0,University of Wisconsin-Madison,Madison,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+263,University of Wisconsin-Milwaukee,False,True,240453.0,,,,240453.0,-87.880488,43.076848,240453.0,University of Wisconsin-Milwaukee,Milwaukee,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+264,University of Wisconsin Milwaukee,True,False,240453.0,,,,240453.0,-87.880488,43.076848,240453.0,University of Wisconsin-Milwaukee,Milwaukee,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+265,University of Wyoming,False,True,240727.0,,,,240727.0,-105.57931,41.311773,240727.0,University of Wyoming,Laramie,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+266,University of Guam,False,True,240754.0,,,,240754.0,144.803978,13.433047,240754.0,University of Guam,Mangilao,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+267,University of Puerto Rico - Mayaguez,True,True,243197.0,,,,243197.0,-67.139172,18.211142,243197.0,University of Puerto Rico-Mayaguez,Mayaguez,2.0,2.0,1.0,1.0,False,True,False,True,False,True,False
+268,High Performance Computing Facility - University of Puerto Rico,True,False,243221.0,True,,,243221.0,-66.050009,18.402826,243221.0,University of Puerto Rico-Rio Piedras,San Juan,2.0,2.0,1.0,1.0,False,True,False,False,False,False,False
+269,"Universidad de Puerto Rico, Rio Piedras Campus (UPRRP)",False,True,243221.0,,,,243221.0,-66.050009,18.402826,243221.0,University of Puerto Rico-Rio Piedras,San Juan,2.0,2.0,1.0,1.0,False,False,False,False,False,False,False
+271,Stanford University,True,True,243744.0,,,,243744.0,-122.167359,37.429434,243744.0,Stanford University,Stanford,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+272,Fond du Lac Tribal & Community College,False,True,380368.0,,,,380368.0,-92.451326,46.690069,380368.0,Fond du Lac Tribal and Community College,Cloquet,2.0,1.0,1.0,2.0,False,False,False,True,True,False,False
+273,Albert Einstein College of Medicine,False,True,385415.0,,,,385415.0,-73.846327,40.852847,385415.0,Albert Einstein College of Medicine,Bronx,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+274,Toyota Technological Institute at Chicago,False,True,445054.0,,,,445054.0,-87.592682,41.784721,445054.0,Toyota Technological Institute at Chicago,Chicago,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+275,"University of California, Merced",False,True,445188.0,,,,445188.0,-120.424944,37.366237,445188.0,University of California-Merced,Merced,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+276,Arizona State University,True,True,483124.0,,,,483124.0,-111.924487,33.463517,483124.0,Arizona State University Digital Immersion,Scottsdale,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+277,Kennesaw State University,True,True,486840.0,,,,486840.0,-84.583052,34.038807,486840.0,Kennesaw State University,Kennesaw,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+278,Purdue University Calumet,False,True,490805.0,,,,490805.0,-87.474236,41.584324,490805.0,Purdue University Northwest,Hammond,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+279,The Pennsylvania State University,False,True,495767.0,,,,495767.0,-77.862848,40.7965,495767.0,The Pennsylvania State University,University Park,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+280,Penn State University,True,False,495767.0,True,,,495767.0,-77.862848,40.7965,495767.0,The Pennsylvania State University,University Park,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+282,Iolani School,False,True,,,,"21.285415654939015, -157.8251532386342",,-157.8251532386342,21.285415654939015,,,,,,,,False,False,False,True,False,False,False
+283,"Louisiana School for Math, Science, and the Arts",False,True,,,,"31.75224976358268, -93.09625582273159",,-93.09625582273159,31.75224976358268,,,,,,,,False,False,False,True,False,False,False
+284,ANL,True,False,,True,,"41.717702118417826, -87.97779883027358",,-87.97779883027358,41.717702118417826,,,,,,,,False,False,False,False,False,False,False
+285,ATLAS,False,True,,,,"46.232856242673385, 6.056192084083723",,6.056192084083723,46.232856242673385,,,,,,,,False,False,False,False,False,False,False
+286,Academia Sinica,True,False,,,,"25.042530392091095, 121.61572354493325",,121.61572354493325,25.042530392091095,,,,,,,,False,False,False,False,False,False,False
+287,Allen Independent School District,False,True,,,,"33.102275805443405, -96.67009520207793",,-96.67009520207793,33.102275805443405,,,,,,,,False,False,False,True,False,False,False
+288,American Museum of Natural History,True,True,,,,"40.78126721157984, -73.97407403216513",,-73.97407403216513,40.78126721157984,,,,,,,,False,False,False,True,False,False,False
+289,Argonne National Lab,False,True,,True,,"41.717702118417826, -87.97779883027358",,-87.97779883027358,41.717702118417826,,,,,,,,False,False,False,True,False,False,False
+290,Argonne National Laboratory,False,True,,True,,"41.717702118417826, -87.97779883027358",,-87.97779883027358,41.717702118417826,,,,,,,,False,False,False,True,False,False,False
+291,Bay Area Environmental Research Institute,False,True,,,,"37.413084593214464, -122.05884613405762",,-122.05884613405762,37.413084593214464,,,,,,,,False,False,False,True,False,False,False
+292,Boston Children's Hospital,False,True,,,,"42.3382436266716, -71.1040575685535",,-71.1040575685535,42.3382436266716,,,,,,,,False,False,False,True,False,False,False
+293,Broad Institute,False,True,,,,"42.36329353390702, -71.08911846749469",,-71.08911846749469,42.36329353390702,,,,,,,,False,False,False,True,False,False,False
+294,Brookhaven National Laboratory,True,True,,,,"40.86272347969052, -72.87937552123208",,-72.87937552123208,40.86272347969052,,,,,,,,False,False,False,True,False,False,False
+295,CBPF,True,False,,,,"-22.954288908768255, -43.173814206926394",,-43.173814206926394,-22.954288908768255,,,,,,,,False,False,False,False,False,False,False
+296,CDMS,False,True,,,,"37.419800499432995, -122.20299539876171",,-122.20299539876171,37.419800499432995,,,,,,,,False,False,False,False,False,False,False
+297,CENF_NeutrinoPlatform,True,False,,,,"46.232856242673385, 6.056192084083723",,6.056192084083723,46.232856242673385,,,,,,,,False,False,False,False,False,False,False
+298,CERN,False,True,,,,"46.232856242673385, 6.056192084083723",,6.056192084083723,46.232856242673385,,,,,,,,False,False,False,False,False,False,False
+299,CILogon_org,True,False,,,,"40.114831225269235, -88.22525736981424",,-88.22525736981424,40.114831225269235,,,,,,,,False,False,False,False,False,False,False
+300,CancerComputer,True,False,,,,"45.40069290385442, -75.71148779040334",,-75.71148779040334,45.40069290385442,,,,,,,,False,False,False,False,False,False,False
+301,Cardiff University,True,False,,,,"51.4865803138928, -3.1789928484691914",,-3.1789928484691914,51.4865803138928,,,,,,,,False,False,False,False,False,False,False
+302,Cinvestav,True,False,,,,"19.50960304676838, -99.12966198968027",,-99.12966198968027,19.50960304676838,,,,,,,,False,False,False,False,False,False,False
+303,Compute Canada,True,False,,,,"43.64859422185221, -79.38509586598677",,-79.38509586598677,43.64859422185221,,,,,,,,False,False,False,False,False,False,False
+304,Computer Network Information Center (CNIC),True,False,,,,"42.423840702712766, -83.4277745451497",,-83.4277745451497,42.423840702712766,,,,,,,,False,False,False,False,False,False,False
+305,CyVerse,True,False,,,,"39.910550384265704, 116.33559991058075",,116.33559991058075,39.910550384265704,,,,,,,,False,False,False,False,False,False,False
+306,Cybera,True,False,,,,"51.07968999725882, -114.12884971629151",,-114.12884971629151,51.07968999725882,,,,,,,,False,False,False,False,False,False,False
+307,DOSAR,False,True,,,,"40.34306178833331, -74.6551621977998",,-74.6551621977998,40.34306178833331,,,,,,,,False,False,False,True,False,False,False
+308,DUNE,False,True,,,,"41.838425845702055, -88.26182229489123",,-88.26182229489123,41.838425845702055,,,,,,,,False,False,False,False,False,False,False
+309,Darkside,False,True,,,,"42.42006995514902, 13.513903355097687",,13.513903355097687,42.42006995514902,,,,,,,,False,False,False,False,False,False,False
+310,"Dearborn Center for Math, Science, and Technology",False,True,,,,"42.340470897541046, -83.26100292001256",,-83.26100292001256,42.340470897541046,,,,,,,,False,False,False,True,False,False,False
+311,Donald Danforth Plant Science Center,True,True,,,,"38.67420527961106, -90.39692046247502",,-90.39692046247502,38.67420527961106,,,,,,,,False,False,False,True,False,False,False
+312,Dutch National e-Infrastructure,True,False,,,,"52.35618376392872, 4.951195253417588",,4.951195253417588,52.35618376392872,,,,,,,,False,False,False,False,False,False,False
+313,ETH Zurich,False,True,,,,"47.37681028832804, 8.546083047707475",,8.546083047707475,47.37681028832804,,,,,,,,False,False,False,False,False,False,False
+314,"Eureka Scientific, Inc.",False,True,,,,"37.80361320952105, -122.20855496250502",,-122.20855496250502,37.80361320952105,,,,,,,,False,False,False,False,False,False,False
+315,Facility for Rare Isotopes Beams (FRIB),False,True,,,,"42.72482797330552, -84.47445948931505",,-84.47445948931505,42.72482797330552,,,,,,,,False,False,False,True,False,False,False
+316,Fermi National Accelerator Laboratory,True,False,,True,,"41.838425845702055, -88.26182229489123",,-88.26182229489123,41.838425845702055,,,,,,,,False,False,False,False,False,False,False
+317,Fermilab,False,True,,True,,"41.838425845702055, -88.26182229489123",,-88.26182229489123,41.838425845702055,,,,,,,,False,False,False,True,False,False,False
+318,Folding@Home Consortium (FAHC),False,True,215062.0,True,,,215062.0,-75.19391,39.950929,215062.0,University of Pennsylvania,Philadelphia,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+319,Great Plains Network,True,True,,,,"38.96020722423101, -92.37501414681599",,-92.37501414681599,38.96020722423101,,,,,,,,False,False,False,True,False,False,False
+320,Gridplexus,True,False,,,,"41.080196, -73.85721",,-73.85721,41.080196,,,,,,,,False,False,False,False,False,False,False
+321,IFAE,True,False,,,,"41.50152817356315, 2.1093430050961834",,2.1093430050961834,41.50152817356315,,,,,,,,False,False,False,False,False,False,False
+322,INFN-PADOVA,True,False,,,,"45.409357, 11.885952",,11.885952,45.409357,,,,,,,,False,False,False,False,False,False,False
+323,INFN-T1,True,False,,,,"44.50, 11.34",,11.34,44.50,,,,,,,,False,False,False,False,False,False,False
+324,ISI,False,True,123961.0,True,,,123961.0,-118.284169,34.021281,123961.0,University of Southern California,Los Angeles,2.0,2.0,0.0,1.0,False,False,False,False,False,False,False
+325,IUPUI,False,True,151111.0,,,,151111.0,-86.172217,39.772948,151111.0,Indiana University-Purdue University-Indianapolis,Indianapolis,2.0,2.0,0.0,1.0,False,False,False,True,False,False,False
+326,Indian Institute of Chemical Biology,False,True,,,,"22.497346398852372, 88.3701422794107",,88.3701422794107,22.497346398852372,,,,,,,,False,False,False,False,False,False,False
+327,Institute for Protein Innovation,False,True,,,,"42.33838760436394, -71.10328918932973",,-71.10328918932973,42.33838760436394,,,,,,,,False,False,False,True,False,False,False
+328,Institute of Physics ASCR,True,False,,,,"50.08292194814321, 14.432946719078814",,14.432946719078814,50.08292194814321,,,,,,,,False,False,False,False,False,False,False
+329,"Institute of Plasma Physics, Chinese Academy of Sciences",True,False,,True,,"39.91057507282607, 116.335460435721",,116.335460435721,39.91057507282607,,,,,,,,False,False,False,False,False,False,False
+330,Inter-University Centre for Astronomy and Astrophysics,True,False,,,,"18.559099094966086, 73.82527931002382",,73.82527931002382,18.559099094966086,,,,,,,,False,False,False,False,False,False,False
+331,International Center for Theoretical Physics,False,True,,,,"48.87072673629389, 2.2962488360745965",,2.2962488360745965,48.87072673629389,,,,,,,,False,False,False,True,False,False,False
+332,International Centre for Theoretical Sciences,True,False,,,,"13.144003362679818, 77.50976435000999",,77.50976435000999,13.144003362679818,,,,,,,,False,False,False,False,False,False,False
+333,International Gravitational-Wave Observatory Network (IGWN),False,True,,True,,"34.137657580588744, -118.12520463009322",,-118.12520463009322,34.137657580588744,,,,,,,,False,False,False,True,False,False,False
+334,Internet2,True,True,,,,"42.30056774990911, -83.69116297911587",,-83.69116297911587,42.30056774990911,,,,,,,,False,False,False,True,False,False,False
+335,JINR,True,False,,,,"56.70953167930729, 37.13770436234495",,37.13770436234495,56.70953167930729,,,,,,,,False,False,False,False,False,False,False
+336,Jackson Laboratory for Genomic Medicine,False,True,,,,"41.7326359658461, -72.79326432798669",,-72.79326432798669,41.7326359658461,,,,,,,,False,False,False,True,False,False,False
+337,Jefferson Lab,False,True,,,,"42.42809723174292, -71.06263934068431",,-71.06263934068431,42.42809723174292,,,,,,,,False,False,False,True,False,False,False
+338,Korea Institute of Science and Technology Information,True,False,,,,"36.36564517654871, 127.35968912792143",,127.35968912792143,36.36564517654871,,,,,,,,False,False,False,False,False,False,False
+339,LHCONE,True,False,,,,"46.232856242673385, 6.056192084083723",,6.056192084083723,46.232856242673385,,,,,,,,False,False,False,False,False,False,False
+340,Lancaster University,False,True,,,,"54.010350047365925, -2.7878366906832084",,-2.7878366906832084,54.010350047365925,,,,,,,,False,False,False,True,False,False,False
+341,Lancium,True,False,,,,"30.160295977019558, -95.4556385118762",,-95.4556385118762,30.160295977019558,,,,,,,,False,False,False,False,False,False,False
+342,Lawrence Berkeley National Laboratory,False,True,,True,,"37.850902252225715, -122.29337470132145",,-122.29337470132145,37.850902252225715,,,,,,,,False,False,False,False,False,False,False
+343,Lawrence Berkley National Laboratory,True,False,,True,,"37.850902252225715, -122.29337470132145",,-122.29337470132145,37.850902252225715,,,,,,,,False,False,False,False,False,False,False
+344,Lawrence Livermore National Laboratory,True,True,,,,"37.686216241035254, -121.7068766299682",,-121.7068766299682,37.686216241035254,,,,,,,,False,False,False,True,False,False,False
+345,Lonestar Education and Research Network,False,True,,,,"33.577042501157514, -101.93967503292171",,-101.93967503292171,33.577042501157514,,,,,,,,False,False,False,True,False,False,False
+346,Los Alamos National Lab,False,True,,,,"32.38164959221669, -104.20503544103649",,-104.20503544103649,32.38164959221669,,,,,,,,False,False,False,True,False,False,False
+347,Massachusetts Green High Performance Computing Center,True,False,,,,"42.202502549968585, -72.6073522800971",,-72.6073522800971,42.202502549968585,,,,,,,,False,False,False,False,False,False,False
+348,McGill University,True,False,,,,"45.504754601892124, -73.57707600085226",,-73.57707600085226,45.504754601892124,,,,,,,,False,False,False,False,False,False,False
+349,NIAID/NIH,False,True,,,,"39.06198792270001, -77.11209331707572",,-77.11209331707572,39.06198792270001,,,,,,,,False,False,False,True,False,False,False
+350,NSF DC,True,False,,,,"38.801459421972126, -77.07071841758736",,-77.07071841758736,38.801459421972126,,,,,,,,False,False,False,False,False,False,False
+351,National Center for High-performance Computing,True,False,,,,"24.781131062795808, 120.99452376636201",,120.99452376636201,24.781131062795808,,,,,,,,False,False,False,False,False,False,False
+353,National Energy Research Scientific Computing Center,True,False,,,,"37.87576041100608, -122.25288178949029",,-122.25288178949029,37.87576041100608,,,,,,,,False,False,False,False,False,False,False
+355,National Institute of Allergy and Infectious Diseases,False,True,,,,"39.061802364780476, -77.11128549855769",,-77.11128549855769,39.061802364780476,,,,,,,,False,False,False,True,False,False,False
+356,National Institute of Standards and Technology,False,True,,,,"39.140104930209716, -77.2183580434221",,-77.2183580434221,39.140104930209716,,,,,,,,False,False,False,True,False,False,False
+357,National Oceanic and Atmospheric Administration,False,True,,,,"38.892957330048134, -77.03270474527838",,-77.03270474527838,38.892957330048134,,,,,,,,False,False,False,True,False,False,False
+358,National Renewable Energy Laboratory,False,True,,,,"38.88508217957785, -77.02473904527865",,-77.02473904527865,38.88508217957785,,,,,,,,False,False,False,False,False,False,False
+359,National Research Council of Canada,False,True,,,,"45.44392524489223, -75.61925348848203",,-75.61925348848203,45.44392524489223,,,,,,,,False,False,False,True,False,False,False
+360,Nevada System of Higher Education,False,True,,True,,"39.55119412445009, -119.81245607671367",,-119.81245607671367,39.55119412445009,,,,,,,,False,False,False,False,False,False,False
+361,Niels Bohr Institute,True,False,,,,"55.696943534090515, 12.571493067066925",,12.571493067066925,55.696943534090515,,,,,,,,False,False,False,False,False,False,False
+362,OSG,False,True,,,,"43.07227800381882, -89.40075425604951",,-89.40075425604951,43.07227800381882,,,,,,,,False,False,False,True,False,False,False
+363,Oak Ridge National Laboratory,True,False,,,,"35.9310810062921, -84.31037359509763",,-84.31037359509763,35.9310810062921,,,,,,,,False,False,False,False,False,False,False
+364,Ohio Supercomputer Center,True,False,,,,"39.99991167849006, -83.04013472492093",,-83.04013472492093,39.99991167849006,,,,,,,,False,False,False,False,False,False,False
+365,Open Science Grid,False,True,,,,"43.07227800381882, -89.40075425604951",,-89.40075425604951,43.07227800381882,,,,,,,,False,False,False,True,False,False,False
+366,PNNL,True,False,,True,,"46.34501285971672, -119.27914210557697",,-119.27914210557697,46.34501285971672,,,,,,,,False,False,False,False,False,False,False
+367,Pacific Northwest National Laboratory,False,True,,True,,"46.34501285971672, -119.27914210557697",,-119.27914210557697,46.34501285971672,,,,,,,,False,False,False,True,False,False,False
+368,Pacific Research Platform,False,True,,,,"38.801459421972126, -77.07071841758736",,-77.07071841758736,38.801459421972126,,,,,,,,False,False,False,False,False,False,False
+369,Pacific Rim Application and Grid Middleware Assembly (PRAGMA),False,True,,,,"38.801459421972126, -77.07071841758736",,-77.07071841758736,38.801459421972126,,,,,,,,False,False,False,False,False,False,False
+370,Pittsburgh Supercomputing Center,True,False,,,,"40.445555719822124, -79.94905384707064",,-79.94905384707064,40.445555719822124,,,,,,,,False,False,False,False,False,False,False
+371,Pontificia Universidad Javeriana,True,False,,,,"4.628444721253568, -74.06467523242473",,-74.06467523242473,4.628444721253568,,,,,,,,False,False,False,False,False,False,False
+372,Renaissance Computing Institute,False,True,,,,"35.93933612069716, -79.01867200120101",,-79.01867200120101,35.93933612069716,,,,,,,,False,False,False,True,False,False,False
+373,Repertoire Immune Medicines,False,True,,,,"42.36733429098992, -71.09050087398725",,-71.09050087398725,42.36733429098992,,,,,,,,False,False,False,False,False,False,False
+374,Roswell Park Cancer Institute,False,True,,,,"42.89877565799519, -78.86452537609503",,-78.86452537609503,42.89877565799519,,,,,,,,False,False,False,True,False,False,False
+375,SLAC National Accelerator Laboratory,False,True,,,,"37.419817596280396, -122.20273788950578",,-122.20273788950578,37.419817596280396,,,,,,,,False,False,False,True,False,False,False
+376,Sandia National Laboratories,False,True,,,,"35.05491630062476, -106.5343379653844",,-106.5343379653844,35.05491630062476,,,,,,,,False,False,False,True,False,False,False
+378,Space Telescope Science Institute,False,True,,,,"39.33621981049221, -76.63023490154764",,-76.63023490154764,39.33621981049221,,,,,,,,False,False,False,False,False,False,False
+379,Steadman Philippon Research Institute,False,True,,,,"39.64300596351337, -106.38163156059336",,-106.38163156059336,39.64300596351337,,,,,,,,False,False,False,True,False,False,False
+380,Swinburne University of Technology,True,False,,,,"-37.82225207848294, 145.038858037747",,145.038858037747,-37.82225207848294,,,,,,,,False,False,False,False,False,False,False
+381,Texas Advanced Computing Center,True,False,,,,"30.38995077048283, -97.72552615108638",,-97.72552615108638,30.38995077048283,,,,,,,,False,False,False,False,False,False,False
+382,Thomas Jefferson National Accelerator Facility,True,False,,,,"37.094403317692034, -76.48162293184595",,-76.48162293184595,37.094403317692034,,,,,,,,False,False,False,False,False,False,False
+383,UMSNH,True,False,,,,"19.687603876767984, -101.20320466112243",,-101.20320466112243,19.687603876767984,,,,,,,,False,False,False,False,False,False,False
+384,US ATLAS,False,True,,,,"46.232856242673385, 6.056192084083723",,6.056192084083723,46.232856242673385,,,,,,,,False,False,False,False,False,False,False
+385,USDA Agricultural Research Service,False,True,,,,"43.06666798256262, -89.41624245021076",,-89.41624245021076,43.06666798256262,,,,,,,,False,False,False,False,False,False,False
+386,Universidad Autonoma de Manizales,True,False,,,,"5.06744032576561, -75.50323175443019",,-75.50323175443019,5.06744032576561,,,,,,,,False,False,False,False,False,False,False
+387,Universidad Autonoma del Caribe,True,False,,,,"11.004348239695156, -74.82350136123051",,-74.82350136123051,11.004348239695156,,,,,,,,False,False,False,False,False,False,False
+388,Universidad Catolica de Colombia,True,False,,,,"4.6339767091128605, -74.06665786126007",,-74.06665786126007,4.6339767091128605,,,,,,,,False,False,False,False,False,False,False
+389,Universidad Industrial de Santander,True,False,,,,"4.696967416150688, -74.03299432424002",,-74.03299432424002,4.696967416150688,,,,,,,,False,False,False,False,False,False,False
+390,Universidad Pontificia Bolivariana,True,False,,,,"4.6206525256984134, -74.06664018271677",,-74.06664018271677,4.6206525256984134,,,,,,,,False,False,False,False,False,False,False
+391,Universidad Tecnologica de Bolivar,True,False,,,,"10.370263992606208, -75.4654731189061",,-75.4654731189061,10.370263992606208,,,,,,,,False,False,False,False,False,False,False
+392,Universidad de Caldas,True,False,,,,"5.05592696447915, -75.49282847235332",,-75.49282847235332,5.05592696447915,,,,,,,,False,False,False,False,False,False,False
+393,Universidad de Medellin,True,False,,,,"6.231534279231345, -75.61016729871736",,-75.61016729871736,6.231534279231345,,,,,,,,False,False,False,False,False,False,False
+394,Universidad de los Andes,True,False,,,,"4.602406416268405, -74.06571905182048",,-74.06571905182048,4.602406416268405,,,,,,,,False,False,False,False,False,False,False
+395,Universidad del Valle,True,False,,,,"3.375594095597272, -76.53294586567536",,-76.53294586567536,3.375594095597272,,,,,,,,False,False,False,False,False,False,False
+396,Universidade Estadual Paulista,True,False,,,,"-22.860044266199488, -48.437721314064405",,-48.437721314064405,-22.860044266199488,,,,,,,,False,False,False,False,False,False,False
+397,Universidade de Sao Paulo,True,False,,,,"-23.56278310184921, -46.722643740776505",,-46.722643740776505,-23.56278310184921,,,,,,,,False,False,False,False,False,False,False
+398,Universidade de São Paulo - Laboratório de Computação Científica Avançada,True,False,,,,"-23.558809362364535, -46.731448062150676",,-46.731448062150676,-23.558809362364535,,,,,,,,False,False,False,False,False,False,False
+399,Universidade do Estado do Rio de Janeiro,True,False,,,,"-22.902798000185015, -43.22292518733756",,-43.22292518733756,-22.902798000185015,,,,,,,,False,False,False,False,False,False,False
+400,Universite catholique de Louvain,True,False,,,,"50.669690279172706, 4.615960828201738",,4.615960828201738,50.669690279172706,,,,,,,,False,False,False,False,False,False,False
+401,University of Amsterdam,True,False,,,,"52.355785416273925, 4.955822857112676",,4.955822857112676,52.355785416273925,,,,,,,,False,False,False,False,False,False,False
+402,University of Bern,True,False,,,,"46.95047493149651, 7.438215556877675",,7.438215556877675,46.95047493149651,,,,,,,,False,False,False,False,False,False,False
+403,University of Birmingham,True,False,,,,"52.45072721788779, -1.9303364608590694",,-1.9303364608590694,52.45072721788779,,,,,,,,False,False,False,False,False,False,False
+404,University of Campinas,True,False,,,,"-22.818478841763458, -47.06476351857644",,-47.06476351857644,-22.818478841763458,,,,,,,,False,False,False,False,False,False,False
+405,University of Connecticut Health Center,True,True,,,,"41.73079891281622, -72.79028940729341",,-72.79028940729341,41.73079891281622,,,,,,,,False,False,False,True,False,False,False
+406,University of Edinburgh,True,True,,,,"55.94446170767518, -3.1893056752505107",,-3.1893056752505107,55.94446170767518,,,,,,,,False,False,False,True,False,False,False
+407,University of Johannesburg,True,False,,,,"-26.18570333174719, 27.998789660386457",,27.998789660386457,-26.18570333174719,,,,,,,,False,False,False,False,False,False,False
+408,University of Macau,False,True,,,,"22.16429502628331, 113.55791779202336",,113.55791779202336,22.16429502628331,,,,,,,,False,False,False,True,False,False,False
+409,University of Oxford,False,True,,,,"51.75476988951256, -1.254377531268152",,-1.254377531268152,51.75476988951256,,,,,,,,False,False,False,True,False,False,False
+410,University of Sheffield,False,True,,,,"53.38129258353164, -1.4883478005111295",,-1.4883478005111295,53.38129258353164,,,,,,,,False,False,False,True,False,False,False
+411,University of Venda,False,True,,,,"-22.97610565189411, 30.44650115443992",,30.44650115443992,-22.97610565189411,,,,,,,,False,False,False,True,False,False,False
+412,Utrecht University,False,True,,,,"52.085169294227136, 5.175684739911412",,5.175684739911412,52.085169294227136,,,,,,,,False,False,False,False,False,False,False
+413,Wright State Research Institute,False,True,,,,"39.71782686299591, -84.10890390169155",,-84.10890390169155,39.71782686299591,,,,,,,,False,False,False,True,False,False,False
