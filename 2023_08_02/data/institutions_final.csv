@@ -1,0 +1,415 @@
+Institution Name,Has Resource(s),Has Project(s),IPEDS,Weird Stuff,NCES,"Google Lat, Lon",Group
+University of Campinas,TRUE,FALSE,,,,"-22.818478841763458, -47.06476351857644",
+Universidade Estadual Paulista,TRUE,FALSE,,,,"-22.860044266199488, -48.437721314064405",
+Universidade do Estado do Rio de Janeiro,TRUE,FALSE,,,,"-22.902798000185015, -43.22292518733756",
+CBPF,TRUE,FALSE,,,,"-22.954288908768255, -43.173814206926394",
+University of Venda,FALSE,TRUE,,,,"-22.97610565189411, 30.44650115443992",
+Universidade de São Paulo - Laboratório de Computação Científica Avançada,TRUE,FALSE,,,,"-23.558809362364535, -46.731448062150676",
+Universidade de Sao Paulo,TRUE,FALSE,,,,"-23.56278310184921, -46.722643740776505",
+University of Johannesburg,TRUE,FALSE,,,,"-26.18570333174719, 27.998789660386457",
+Swinburne University of Technology,TRUE,FALSE,,,,"-37.82225207848294, 145.038858037747",
+Universidad Tecnologica de Bolivar,TRUE,FALSE,,,,"10.370263992606208, -75.4654731189061",
+Universidad Autonoma del Caribe,TRUE,FALSE,,,,"11.004348239695156, -74.82350136123051",
+International Centre for Theoretical Sciences,TRUE,FALSE,,,,"13.144003362679818, 77.50976435000999",
+Inter-University Centre for Astronomy and Astrophysics,TRUE,FALSE,,,,"18.559099094966086, 73.82527931002382",
+Cinvestav,TRUE,FALSE,,,,"19.50960304676838, -99.12966198968027",
+UMSNH,TRUE,FALSE,,,,"19.687603876767984, -101.20320466112243",
+Iolani School,FALSE,TRUE,,,,"21.285415654939015, -157.8251532386342",
+University of Macau,FALSE,TRUE,,,,"22.16429502628331, 113.55791779202336",
+Indian Institute of Chemical Biology,FALSE,TRUE,,,,"22.497346398852372, 88.3701422794107",
+National Center for High-performance Computing,TRUE,FALSE,,,,"24.781131062795808, 120.99452376636201",
+Academia Sinica,TRUE,FALSE,,,,"25.042530392091095, 121.61572354493325",
+Universidad del Valle,TRUE,FALSE,,,,"3.375594095597272, -76.53294586567536",
+Lancium,TRUE,FALSE,,,,"30.160295977019558, -95.4556385118762",
+Texas Advanced Computing Center,TRUE,FALSE,,,,"30.38995077048283, -97.72552615108638",
+"Louisiana School for Math, Science, and the Arts",FALSE,TRUE,,,,"31.75224976358268, -93.09625582273159",
+Los Alamos National Lab,FALSE,TRUE,,,,"32.38164959221669, -104.20503544103649",
+Allen Independent School District,FALSE,TRUE,,,,"33.102275805443405, -96.67009520207793",
+Lonestar Education and Research Network,FALSE,TRUE,,,,"33.577042501157514, -101.93967503292171",
+International Gravitational-Wave Observatory Network (IGWN),FALSE,TRUE,,TRUE,,"34.137657580588744, -118.12520463009322",
+Sandia National Laboratories,FALSE,TRUE,,,,"35.05491630062476, -106.5343379653844",
+Oak Ridge National Laboratory,TRUE,FALSE,,,,"35.9310810062921, -84.31037359509763",
+Renaissance Computing Institute,FALSE,TRUE,,,,"35.93933612069716, -79.01867200120101",
+Korea Institute of Science and Technology Information,TRUE,FALSE,,,,"36.36564517654871, 127.35968912792143",
+Thomas Jefferson National Accelerator Facility,TRUE,FALSE,,,,"37.094403317692034, -76.48162293184595",
+Bay Area Environmental Research Institute,FALSE,TRUE,,,,"37.413084593214464, -122.05884613405762",
+CDMS,FALSE,TRUE,,,,"37.419800499432995, -122.20299539876171",
+SLAC National Accelerator Laboratory,FALSE,TRUE,,,,"37.419817596280396, -122.20273788950578",
+Lawrence Livermore National Laboratory,TRUE,TRUE,,,,"37.686216241035254, -121.7068766299682",
+"Eureka Scientific, Inc.",FALSE,TRUE,,,,"37.80361320952105, -122.20855496250502",
+Lawrence Berkeley National Laboratory,FALSE,TRUE,,TRUE,,"37.850902252225715, -122.29337470132145",47
+Lawrence Berkley National Laboratory,TRUE,FALSE,,TRUE,,"37.850902252225715, -122.29337470132145",47
+National Energy Research Scientific Computing Center,TRUE,FALSE,,,,"37.87576041100608, -122.25288178949029",
+Donald Danforth Plant Science Center,TRUE,TRUE,,,,"38.67420527961106, -90.39692046247502",
+NSF DC,TRUE,FALSE,,,,"38.801459421972126, -77.07071841758736",
+Pacific Research Platform,FALSE,TRUE,,,,"38.801459421972126, -77.07071841758736",48
+Pacific Rim Application and Grid Middleware Assembly (PRAGMA),FALSE,TRUE,,,,"38.801459421972126, -77.07071841758736",48
+National Renewable Energy Laboratory,FALSE,TRUE,,,,"38.88508217957785, -77.02473904527865",
+National Oceanic and Atmospheric Administration,FALSE,TRUE,,,,"38.892957330048134, -77.03270474527838",
+Great Plains Network,TRUE,TRUE,,,,"38.96020722423101, -92.37501414681599",
+National Institute of Allergy and Infectious Diseases,FALSE,TRUE,,,,"39.061802364780476, -77.11128549855769",
+NIAID/NIH,FALSE,TRUE,,,,"39.06198792270001, -77.11209331707572",
+National Institute of Standards and Technology,FALSE,TRUE,,,,"39.140104930209716, -77.2183580434221",
+Space Telescope Science Institute,FALSE,TRUE,,,,"39.33621981049221, -76.63023490154764",
+Nevada System of Higher Education,FALSE,TRUE,,TRUE,,"39.55119412445009, -119.81245607671367",
+Steadman Philippon Research Institute,FALSE,TRUE,,,,"39.64300596351337, -106.38163156059336",
+Wright State Research Institute,FALSE,TRUE,,,,"39.71782686299591, -84.10890390169155",
+CyVerse,TRUE,FALSE,,,,"39.910550384265704, 116.33559991058075",
+"Institute of Plasma Physics, Chinese Academy of Sciences",TRUE,FALSE,,TRUE,,"39.91057507282607, 116.335460435721",
+Ohio Supercomputer Center,TRUE,FALSE,,,,"39.99991167849006, -83.04013472492093",
+Universidad de los Andes,TRUE,FALSE,,,,"4.602406416268405, -74.06571905182048",
+Universidad Pontificia Bolivariana,TRUE,FALSE,,,,"4.6206525256984134, -74.06664018271677",
+Pontificia Universidad Javeriana,TRUE,FALSE,,,,"4.628444721253568, -74.06467523242473",
+Universidad Catolica de Colombia,TRUE,FALSE,,,,"4.6339767091128605, -74.06665786126007",
+Universidad Industrial de Santander,TRUE,FALSE,,,,"4.696967416150688, -74.03299432424002",
+CILogon_org,TRUE,FALSE,,,,"40.114831225269235, -88.22525736981424",
+DOSAR,FALSE,TRUE,,,,"40.34306178833331, -74.6551621977998",
+Pittsburgh Supercomputing Center,TRUE,FALSE,,,,"40.445555719822124, -79.94905384707064",
+American Museum of Natural History,TRUE,TRUE,,,,"40.78126721157984, -73.97407403216513",
+Brookhaven National Laboratory,TRUE,TRUE,,,,"40.86272347969052, -72.87937552123208",
+Gridplexus,TRUE,FALSE,,,,"41.080196, -73.85721",
+IFAE,TRUE,FALSE,,,,"41.50152817356315, 2.1093430050961834",
+ANL,TRUE,FALSE,,TRUE,,"41.717702118417826, -87.97779883027358",49
+Argonne National Lab,FALSE,TRUE,,TRUE,,"41.717702118417826, -87.97779883027358",49
+Argonne National Laboratory,FALSE,TRUE,,TRUE,,"41.717702118417826, -87.97779883027358",49
+University of Connecticut Health Center,TRUE,TRUE,,,,"41.73079891281622, -72.79028940729341",
+Jackson Laboratory for Genomic Medicine,FALSE,TRUE,,,,"41.7326359658461, -72.79326432798669",
+DUNE,FALSE,TRUE,,,,"41.838425845702055, -88.26182229489123",
+Fermi National Accelerator Laboratory,TRUE,FALSE,,TRUE,,"41.838425845702055, -88.26182229489123",50
+Fermilab,FALSE,TRUE,,TRUE,,"41.838425845702055, -88.26182229489123",50
+Massachusetts Green High Performance Computing Center,TRUE,FALSE,,,,"42.202502549968585, -72.6073522800971",
+Internet2,TRUE,TRUE,,,,"42.30056774990911, -83.69116297911587",
+Boston Children's Hospital,FALSE,TRUE,,,,"42.3382436266716, -71.1040575685535",
+Institute for Protein Innovation,FALSE,TRUE,,,,"42.33838760436394, -71.10328918932973",
+"Dearborn Center for Math, Science, and Technology",FALSE,TRUE,,,,"42.340470897541046, -83.26100292001256",
+Broad Institute,FALSE,TRUE,,,,"42.36329353390702, -71.08911846749469",
+Repertoire Immune Medicines,FALSE,TRUE,,,,"42.36733429098992, -71.09050087398725",
+Darkside,FALSE,TRUE,,,,"42.42006995514902, 13.513903355097687",
+Computer Network Information Center (CNIC),TRUE,FALSE,,,,"42.423840702712766, -83.4277745451497",
+Jefferson Lab,FALSE,TRUE,,,,"42.42809723174292, -71.06263934068431",
+Facility for Rare Isotopes Beams (FRIB),FALSE,TRUE,,,,"42.72482797330552, -84.47445948931505",
+Roswell Park Cancer Institute,FALSE,TRUE,,,,"42.89877565799519, -78.86452537609503",
+USDA Agricultural Research Service,FALSE,TRUE,,,,"43.06666798256262, -89.41624245021076",
+OSG,FALSE,TRUE,,,,"43.07227800381882, -89.40075425604951",51
+Open Science Grid,FALSE,TRUE,,,,"43.07227800381882, -89.40075425604951",51
+Compute Canada,TRUE,FALSE,,,,"43.64859422185221, -79.38509586598677",
+INFN-T1,TRUE,FALSE,,,,"44.50, 11.34",
+CancerComputer,TRUE,FALSE,,,,"45.40069290385442, -75.71148779040334",
+INFN-PADOVA,TRUE,FALSE,,,,"45.409357, 11.885952",
+National Research Council of Canada,FALSE,TRUE,,,,"45.44392524489223, -75.61925348848203",
+McGill University,TRUE,FALSE,,,,"45.504754601892124, -73.57707600085226",
+ATLAS,FALSE,TRUE,,,,"46.232856242673385, 6.056192084083723",52
+CENF_NeutrinoPlatform,TRUE,FALSE,,,,"46.232856242673385, 6.056192084083723",
+CERN,FALSE,TRUE,,,,"46.232856242673385, 6.056192084083723",
+LHCONE,TRUE,FALSE,,,,"46.232856242673385, 6.056192084083723",
+US ATLAS,FALSE,TRUE,,,,"46.232856242673385, 6.056192084083723",52
+PNNL,TRUE,FALSE,,TRUE,,"46.34501285971672, -119.27914210557697",53
+Pacific Northwest National Laboratory,FALSE,TRUE,,TRUE,,"46.34501285971672, -119.27914210557697",53
+University of Bern,TRUE,FALSE,,,,"46.95047493149651, 7.438215556877675",
+ETH Zurich,FALSE,TRUE,,,,"47.37681028832804, 8.546083047707475",
+International Center for Theoretical Physics,FALSE,TRUE,,,,"48.87072673629389, 2.2962488360745965",
+Universidad de Caldas,TRUE,FALSE,,,,"5.05592696447915, -75.49282847235332",
+Universidad Autonoma de Manizales,TRUE,FALSE,,,,"5.06744032576561, -75.50323175443019",
+Institute of Physics ASCR,TRUE,FALSE,,,,"50.08292194814321, 14.432946719078814",
+Universite catholique de Louvain,TRUE,FALSE,,,,"50.669690279172706, 4.615960828201738",
+Cybera,TRUE,FALSE,,,,"51.07968999725882, -114.12884971629151",
+Cardiff University,TRUE,FALSE,,,,"51.4865803138928, -3.1789928484691914",
+University of Oxford,FALSE,TRUE,,,,"51.75476988951256, -1.254377531268152",
+Utrecht University,FALSE,TRUE,,,,"52.085169294227136, 5.175684739911412",
+University of Amsterdam,TRUE,FALSE,,,,"52.355785416273925, 4.955822857112676",
+Dutch National e-Infrastructure,TRUE,FALSE,,,,"52.35618376392872, 4.951195253417588",
+University of Birmingham,TRUE,FALSE,,,,"52.45072721788779, -1.9303364608590694",
+University of Sheffield,FALSE,TRUE,,,,"53.38129258353164, -1.4883478005111295",
+Lancaster University,FALSE,TRUE,,,,"54.010350047365925, -2.7878366906832084",
+Niels Bohr Institute,TRUE,FALSE,,,,"55.696943534090515, 12.571493067066925",
+University of Edinburgh,TRUE,TRUE,,,,"55.94446170767518, -3.1893056752505107",
+JINR,TRUE,FALSE,,,,"56.70953167930729, 37.13770436234495",
+Universidad de Medellin,TRUE,FALSE,,,,"6.231534279231345, -75.61016729871736",
+University of Alabama at Birmingham,TRUE,FALSE,100663,,,,1
+The University of Alabama at Birmingham,FALSE,TRUE,100663,,,,1
+University of Alabama,TRUE,TRUE,100751,,,,
+University of Alaska Fairbanks,FALSE,TRUE,102614,,,,
+University of Arizona,TRUE,TRUE,104179,,,,
+University of Arkansas at Little Rock,TRUE,TRUE,106245,,,,
+University of Arkansas,TRUE,TRUE,106397,,,,
+California Institute of Technology,TRUE,TRUE,110404,,,,2
+Caltech,FALSE,TRUE,110404,,,,2
+"California State University, San Bernadino",FALSE,TRUE,110510,,,,
+"California State University, Fresno",TRUE,FALSE,110556,,,,3
+Fresno State University,FALSE,TRUE,110556,,,,3
+"California State University, Northridge",FALSE,TRUE,110608,,,,
+"University of California, Berkeley",FALSE,TRUE,110635,,,,
+University of California Davis,TRUE,FALSE,110644,,,,4
+"University of California, Davis",FALSE,TRUE,110644,,,,4
+UC Irvine,TRUE,FALSE,110653,,,,5
+"University of California, Irvine",FALSE,TRUE,110653,,,,5
+University of California Los Angeles,TRUE,FALSE,110662,TRUE,,,6
+"University of California, Los Angeles",FALSE,TRUE,110662,TRUE,,,6
+University of California Riverside,TRUE,FALSE,110671,TRUE,,,7
+"University of California, Riverside",FALSE,TRUE,110671,TRUE,,,7
+University of California San Diego,TRUE,FALSE,110680,TRUE,,,8
+"University of California, San Diego",FALSE,TRUE,110680,TRUE,,,8
+"University of California, San Francisco",FALSE,TRUE,110699,,,,
+UC Santa Barbara,TRUE,FALSE,110705,TRUE,,,9
+UCSB,TRUE,FALSE,110705,TRUE,,,9
+"University of California, Santa Barbara",FALSE,TRUE,110705,,,,9
+University of California Santa Cruz,TRUE,TRUE,110714,TRUE,,,10
+"University of California, Santa Cruz",FALSE,TRUE,110714,TRUE,,,10
+San Diego State University,FALSE,TRUE,122409,,,,
+Santa Clara University,FALSE,TRUE,122931,,,,
+University of Southern California,TRUE,TRUE,123961,,,,11
+ISI,FALSE,TRUE,123961,TRUE,,,11
+University of Colorado Anschutz Medical Campus,FALSE,TRUE,126562,,,,
+University of Colorado Boulder,FALSE,TRUE,126614,,,,12
+University of Colorado,TRUE,TRUE,126614,,,,12
+Colorado School of Mines,FALSE,TRUE,126775,,,,
+Colorado State University,FALSE,TRUE,126818,,,,
+University of Colorado Denver,TRUE,TRUE,128300,,,,
+University of Connecticut,TRUE,TRUE,129020,,,,
+Fairfield,FALSE,TRUE,129242,,,,
+University of New Haven,FALSE,TRUE,129941,,,,
+Wesleyan University,FALSE,TRUE,130697,,,,
+Yale University,FALSE,TRUE,130794,,,,
+University of Delaware,FALSE,TRUE,130943,,,,
+George Washington University,FALSE,TRUE,131469,,,,
+University of Central Florida,FALSE,TRUE,132903,,,,
+Florida A&M University,TRUE,FALSE,133650,,,,
+Florida Institute of Technology,TRUE,TRUE,133881,,,,
+Florida International University,TRUE,TRUE,133951,,,,
+Florida State University,TRUE,TRUE,134097,,,,
+University of Florida,TRUE,TRUE,134130,,,,
+University of South Florida,TRUE,TRUE,137351,,,,
+Emory University,FALSE,TRUE,139658,,,,
+Georgia Institute of Technology,TRUE,TRUE,139755,,,,
+Georgia State University,TRUE,TRUE,139940,,,,
+University of Georgia,TRUE,FALSE,139959,,,,
+Spelman College,FALSE,TRUE,141060,,,,
+University of Hawaii at Manoa,FALSE,TRUE,141574,,,,13
+University of Hawaii,TRUE,TRUE,141574,TRUE,,,13
+Boise State University,FALSE,TRUE,142115,,,,
+Chicago State University,FALSE,TRUE,144005,,,,
+University of Chicago,TRUE,TRUE,144050,,,,14
+The University of Chicago,FALSE,TRUE,144050,,,,14
+University of Illinois Chicago,TRUE,TRUE,145600,,,,
+University of Illinois Urbana-Champaign,FALSE,TRUE,145637,,,,15
+University of Illinois,FALSE,TRUE,145637,TRUE,,,15
+University of Illinois at Urbana Champaign,TRUE,FALSE,145637,TRUE,,,15
+National Center for Supercomputing Applications (NCSA),FALSE,TRUE,145637,,,,15
+SeaQuest,FALSE,TRUE,145637,,,,15
+Illinois Institute of Technology,TRUE,TRUE,145725,,,,
+Loyola University Chicago,FALSE,TRUE,146719,,,,
+Northern Illinois University,TRUE,TRUE,147703,,,,
+Northwestern University,TRUE,TRUE,147767,,,,
+Southern Illinois University,FALSE,TRUE,149222,,,,
+Southern Illinois University Edwardsville,TRUE,TRUE,149231,,,,
+Purdue University,TRUE,TRUE,151111,,,,16
+IUPUI,FALSE,TRUE,151111,,,,16
+Indiana University,TRUE,TRUE,151351,TRUE,,,
+University of Notre Dame,TRUE,TRUE,152080,,,,
+Coe College,FALSE,TRUE,153144,,,,
+Iowa State University,TRUE,TRUE,153603,,,,
+University of Iowa,TRUE,TRUE,153658,,,,
+University of Northern Iowa,TRUE,FALSE,154095,,,,
+Kansas University,TRUE,FALSE,155317,,,,17
+The University of Kansas,FALSE,TRUE,155317,,,,17
+Kansas State University,TRUE,TRUE,155399,,,,
+Wichita State University,FALSE,TRUE,156125,,,,
+Bellarmine University,TRUE,FALSE,156286,,,,
+Centre College,FALSE,TRUE,156408,,,,
+Kent State University,TRUE,TRUE,157058,,,,
+University of Kentucky,FALSE,TRUE,157085,,,,
+University of Louisville,FALSE,TRUE,157289,,,,
+LSU School of Public Health,FALSE,TRUE,159373,TRUE,,,18
+Louisiana State University Health Sciences Center,TRUE,TRUE,159373,TRUE,,,18
+Louisiana State University,TRUE,TRUE,159391,,,,
+Louisiana Tech University,TRUE,TRUE,159647,,,,
+Nicholls State University,FALSE,TRUE,159966,,,,
+University of Maine,TRUE,TRUE,161253,,,,
+University of New England,FALSE,TRUE,161457,,,,
+Johns Hopkins University,FALSE,TRUE,162928,,,,19
+Johns Hopkins University Applied Physics Lab,FALSE,TRUE,162928,TRUE,,,19
+University of Maryland Baltimore,FALSE,TRUE,163259,,,,
+University of Maryland,TRUE,TRUE,163286,TRUE,,,20
+University of Maryland Center for Environmental Science,FALSE,TRUE,163286,TRUE,,,20
+Boston College,FALSE,TRUE,164924,,,,
+Boston University,TRUE,TRUE,164988,,,,
+Brandeis University,TRUE,TRUE,165015,,,,
+Harvard University,TRUE,TRUE,166027,,,,21
+Harvard Medical School,TRUE,TRUE,166027,TRUE,,,21
+University of Massachusetts Lowell,FALSE,TRUE,166513,,,,
+University of Massachusetts,FALSE,TRUE,166629,TRUE,,,22
+University of Massachusetts - Amherst,TRUE,FALSE,166629,TRUE,,,22
+University of Massachusetts Amherst,FALSE,TRUE,166629,TRUE,,,22
+University of Massachusetts Boston,FALSE,TRUE,166638,,,,
+Massachusetts Institute of Technology,TRUE,TRUE,166683,,,,
+Northeastern University,TRUE,TRUE,167358,,,,
+Salem State University,FALSE,TRUE,167729,,,,
+Tufts University,TRUE,TRUE,168148,,,,
+Worcester Polytechnic Institute,FALSE,TRUE,168421,,,,
+University of Michigan,TRUE,TRUE,170976,TRUE,,,
+Michigan State University,FALSE,TRUE,171100,,,,23
+Michigan State University High Energy Physics,TRUE,FALSE,171100,,,,23
+Michigan Technological University,FALSE,TRUE,171128,,,,
+Wayne State University,TRUE,TRUE,172644,,,,
+University of Minnesota,TRUE,TRUE,174066,,,,
+University of Minnesota Duluth,FALSE,TRUE,174233,,,,
+University of Mississippi,TRUE,TRUE,176017,,,,24
+University of Mississipi,FALSE,TRUE,176017,,,,24
+University of Missouri-Columbia,FALSE,TRUE,178396,,,,25
+University of Missouri,FALSE,TRUE,178396,,,,25
+Missouri University of Science and Technology,FALSE,TRUE,178411,,,,
+Northwest Missouri State University,FALSE,TRUE,178624,,,,
+Washington University in St. Louis,FALSE,TRUE,179867,,,,
+Montana State University,FALSE,TRUE,180461,,,,
+University of Montana,FALSE,TRUE,180489,,,,
+Creighton University,FALSE,TRUE,181002,,,,
+Doane University,FALSE,TRUE,181020,,,,
+University of Nebraska Omaha,FALSE,TRUE,181394,,,,
+University of Nebraska Medical Center,FALSE,TRUE,181428,,,,
+University of Nebraska-Lincoln,FALSE,TRUE,181464,,,,26
+University of Nebraska,TRUE,TRUE,181464,,,,26
+University of Nebraska - Lincoln,FALSE,TRUE,181464,,,,26
+"University of Nevada, Reno",FALSE,TRUE,182290,,,,
+Dartmouth College,FALSE,TRUE,182670,,,,
+Rowan University,FALSE,TRUE,184782,,,,
+New Jersey Institute of Technology,FALSE,TRUE,185828,,,,
+Princeton University,TRUE,TRUE,186131,,,,
+Rutgers University,TRUE,FALSE,186380,TRUE,,,27
+"Rutgers, The State University of New Jersey",FALSE,TRUE,186380,TRUE,,,27
+The College of New Jersey,TRUE,TRUE,187134,,,,
+University of New Mexico,TRUE,TRUE,187985,,,,
+New Mexico State University,TRUE,TRUE,188030,,,,
+Canisius College,FALSE,TRUE,189705,,,,
+Clarkson University,TRUE,TRUE,190044,,,,
+Columbia University,FALSE,TRUE,190150,,,,28
+Columbia University_Nevis Labs,TRUE,FALSE,190150,TRUE,,,28
+Cornell University,TRUE,TRUE,190415,,,,
+CUNY Brooklyn College,FALSE,TRUE,190549,,,,
+CUNY Graduate Center,TRUE,FALSE,190567,,,,
+Hobart and William Smith Colleges,FALSE,TRUE,191630,,,,
+Icahn School of Medicine at Mount Sinai,FALSE,TRUE,193405,,,,
+New York University,TRUE,TRUE,193900,,,,
+Niagara University,TRUE,FALSE,193973,,,,
+Rensselaer Polytechnic Institute,FALSE,TRUE,194824,,,,
+Rochester Institute of Technology,TRUE,TRUE,195003,,,,
+University of Rochester,FALSE,TRUE,195030,,,,
+Rockefeller University,FALSE,TRUE,195049,,,,
+Siena College,FALSE,TRUE,195474,,,,
+SUNY Albany,TRUE,FALSE,196060,TRUE,,,29
+State University of New York at Albany,FALSE,TRUE,196060,TRUE,,,29
+University of Albany,FALSE,TRUE,196060,TRUE,,,29
+State University of New York at Binghamton,FALSE,TRUE,196079,,,,
+Stony Brook University,TRUE,FALSE,196097,,,,30
+State University of New York at Stony Brook,FALSE,TRUE,196097,,,,30
+State University of New York at Buffalo,FALSE,TRUE,196130,TRUE,,,31
+University of Buffalo,TRUE,FALSE,196130,TRUE,,,31
+SUNY Geneseo,TRUE,FALSE,196167,,,,
+SUNY Upstate Medical University,FALSE,TRUE,196307,,,,
+Syracuse University,TRUE,TRUE,196413,,,,
+Duke University,FALSE,TRUE,198419,,,,32
+Duke_University,TRUE,FALSE,198419,,,,32
+University of North Carolina at Chapel Hill,FALSE,TRUE,199120,,,,33
+UNC Chapel Hill,FALSE,TRUE,199120,,,,33
+University of North Carolina,TRUE,FALSE,199120,,,,33
+"University of North Carolina, Chapel Hill",FALSE,TRUE,199120,,,,33
+North Carolina State University,TRUE,TRUE,199193,,,,
+University of North Dakota,FALSE,TRUE,200280,,,,
+North Dakota State University,TRUE,TRUE,200332,,,,
+Case Western Reserve University,FALSE,TRUE,201645,,,,
+University of Cincinnati,FALSE,TRUE,201885,,,,
+Ohio State University,FALSE,TRUE,204796,TRUE,,,34
+The Ohio State University,TRUE,TRUE,204796,TRUE,,,34
+University of Toledo,FALSE,TRUE,206084,,,,
+Langston University,TRUE,FALSE,207209,,,,
+Oklahoma State University,TRUE,TRUE,207388,,,,
+Oklahoma University,FALSE,TRUE,207500,,,,35
+University of Oklahoma,TRUE,TRUE,207500,,,,35
+Southwest Oklahoma State University,FALSE,TRUE,207865,,,,
+University of Tulsa,FALSE,TRUE,207971,,,,
+Oregon State University,FALSE,TRUE,209542,,,,
+University of Oregon,FALSE,TRUE,209551,,,,
+Portland State University,TRUE,TRUE,209807,,,,
+Arcadia University,FALSE,TRUE,211088,,,,
+Bryn Mawr College,FALSE,TRUE,211273,,,,
+Bucknell University,FALSE,TRUE,211291,,,,
+Carnegie-Mellon University,FALSE,TRUE,211440,,,,
+Drexel University,FALSE,TRUE,212054,,,,
+Duquesne University,FALSE,TRUE,212106,,,,
+Franklin and Marshall College,TRUE,FALSE,212577,,,,
+Indiana University of Pennsylvania,FALSE,TRUE,213020,,,,
+Lafayette College,TRUE,FALSE,213385,,,,
+Lehigh University,TRUE,TRUE,213543,,,,
+University of Pennsylvania,TRUE,TRUE,215062,,,,36
+Folding@Home Consortium (FAHC),FALSE,TRUE,215062,TRUE,,,36
+University of Pittsburgh,TRUE,TRUE,215293,,,,
+Susquehanna University,TRUE,FALSE,216278,,,,
+Swarthmore College,FALSE,TRUE,216287,,,,
+Villanova University,TRUE,TRUE,216597,,,,
+West Chester University of Pennsylvania,FALSE,TRUE,216764,,,,
+Brown University,TRUE,TRUE,217156,,,,
+College of Charleston,FALSE,TRUE,217819,,,,
+The Citadel,FALSE,TRUE,217864,,,,
+Clemson University,TRUE,TRUE,217882,,,,
+University of South Carolina,FALSE,TRUE,218663,,,,
+South Dakota School of Mines and Technology,FALSE,TRUE,219347,,,,
+South Dakota State University,FALSE,TRUE,219356,,,,
+University of South Dakota,TRUE,TRUE,219471,,,,
+Austin Peay State University,FALSE,TRUE,219602,,,,
+Meharry Medical College,FALSE,TRUE,220792,,,,
+Rhodes College,TRUE,FALSE,221351,,,,
+University of Tennessee Chattanooga,TRUE,FALSE,221740,,,,37
+University of Tennessee at Chattanooga,FALSE,TRUE,221740,,,,37
+University of Tennessee,FALSE,TRUE,221759,,,,38
+"University of Tennessee, Knoxville",FALSE,TRUE,221759,,,,38
+National Institute for Computational Sciences,FALSE,TRUE,221759,,,,38
+Tennessee Tech University,FALSE,TRUE,221847,,,,
+Vanderbilt University,TRUE,TRUE,221999,,,,
+Baylor College of Medicine,FALSE,TRUE,223223,,,,
+Baylor University,TRUE,TRUE,223232,,,,
+Lamar University,TRUE,FALSE,226091,,,,
+Texas A&M University,TRUE,TRUE,226152,,,,
+Rice University,TRUE,TRUE,227757,,,,
+Southern Methodist University,TRUE,TRUE,228246,,,,
+University of Texas Southwestern Medical Center,FALSE,TRUE,228635,,,,39
+UT Southwestern,FALSE,TRUE,228635,,,,39
+University of Texas Arlington,TRUE,FALSE,228769,,,,40
+University of Texas at Arlington,FALSE,TRUE,228769,,,,40
+University of Texas at Austin,TRUE,TRUE,228778,,,,
+University of Texas at Dallas,TRUE,TRUE,228787,,,,
+University of Texas at El Paso,FALSE,TRUE,228796,,,,
+Texas Tech University,TRUE,TRUE,229115,,,,
+West Texas A&M University,TRUE,FALSE,229814,,,,
+Brigham Young University Idaho,FALSE,TRUE,230038,,,,
+Utah State University,FALSE,TRUE,230728,,,,
+University of Utah,TRUE,TRUE,230764,,,,
+University of Vermont,FALSE,TRUE,231174,,,,
+Hampton University,FALSE,TRUE,232265,,,,41
+Hampton University PPCF,TRUE,FALSE,232265,,,,41
+Old Dominion University,TRUE,FALSE,232982,,,,
+Virginia Tech,TRUE,FALSE,233921,TRUE,,,42
+Virginia Tech University,FALSE,TRUE,233921,TRUE,,,42
+University of Virginia,TRUE,TRUE,234076,,,,
+Washington State University,FALSE,TRUE,236939,,,,
+University of Washington,TRUE,TRUE,236948,,,,
+Western Washington University,FALSE,TRUE,237011,,,,
+University of Wisconsin-Madison,FALSE,TRUE,240444,,,,43
+University of Wisconsin,TRUE,FALSE,240444,TRUE,,,43
+University of Wisconsin-Milwaukee,FALSE,TRUE,240453,,,,44
+University of Wisconsin Milwaukee,TRUE,FALSE,240453,,,,44
+University of Wyoming,FALSE,TRUE,240727,,,,
+University of Guam,FALSE,TRUE,240754,,,,
+University of Puerto Rico - Mayaguez,TRUE,TRUE,243197,,,,
+High Performance Computing Facility - University of Puerto Rico,TRUE,FALSE,243221,TRUE,,,45
+"Universidad de Puerto Rico, Rio Piedras Campus (UPRRP)",FALSE,TRUE,243221,,,,45
+University of Puerto Rico,FALSE,TRUE,243221,,,,45
+Stanford University,TRUE,TRUE,243744,,,,
+Fond du Lac Tribal & Community College,FALSE,TRUE,380368,,,,
+Albert Einstein College of Medicine,FALSE,TRUE,385415,,,,
+Toyota Technological Institute at Chicago,FALSE,TRUE,445054,,,,
+"University of California, Merced",FALSE,TRUE,445188,,,,
+Arizona State University,TRUE,TRUE,483124,,,,
+Kennesaw State University,TRUE,TRUE,486840,,,,
+Purdue University Calumet,FALSE,TRUE,490805,,,,
+The Pennsylvania State University,FALSE,TRUE,495767,,,,46
+Penn State University,TRUE,FALSE,495767,TRUE,,,46
+Pennsylvania State University,FALSE,TRUE,495767,,,,46

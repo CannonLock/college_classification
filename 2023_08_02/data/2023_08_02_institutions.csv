@@ -1,0 +1,427 @@
+Institution Name,Has Resource(s),Has Project(s)
+ANL,True,False
+ATLAS,False,True
+Academia Sinica,True,False
+Albert Einstein College of Medicine,False,True
+Allen Independent School District,False,True
+American Museum of Natural History,True,True
+Arcadia University,False,True
+Argonne National Lab,False,True
+Argonne National Laboratory,False,True
+Arizona State University,True,True
+Austin Peay State University,False,True
+Bay Area Environmental Research Institute,False,True
+Baylor College of Medicine,False,True
+Baylor University,True,True
+Bellarmine University,True,False
+Boise State University,False,True
+Boston Children's Hospital,False,True
+Boston College,False,True
+Boston University,True,True
+Brandeis University,True,True
+Brigham Young University Idaho,False,True
+Broad Institute,False,True
+Brookhaven National Laboratory,True,True
+Brown University,True,True
+Bryn Mawr College,False,True
+Bucknell University,False,True
+CBPF,True,False
+CDMS,False,True
+CENF_NeutrinoPlatform,True,False
+CERN,False,True
+CILogon_org,True,False
+CUNY Brooklyn College,False,True
+CUNY Graduate Center,True,False
+California Institute of Technology,True,True
+"California State University, Fresno",True,False
+"California State University, Northridge",False,True
+"California State University, San Bernadino",False,True
+Caltech,False,True
+CancerComputer,True,False
+Canisius College,False,True
+Cardiff University,True,False
+Carnegie-Mellon University,False,True
+Case Western Reserve University,False,True
+Cedars-Sinai Medical Center,False,True
+Centre College,False,True
+Chicago State University,False,True
+Cinvestav,True,False
+Clarkson University,True,True
+Clemson University,True,True
+Coe College,False,True
+College of Charleston,False,True
+Colorado School of Mines,False,True
+Colorado State University,False,True
+Columbia University,False,True
+Columbia University_Nevis Labs,True,False
+Compute Canada,True,False
+Computer Network Information Center (CNIC),True,False
+Cornell University,True,True
+Creighton University,False,True
+CyVerse,True,False
+Cybera,True,False
+DOSAR,False,True
+DUNE,False,True
+Darkside,False,True
+Dartmouth College,False,True
+"Dearborn Center for Math, Science, and Technology",False,True
+Doane University,False,True
+Donald Danforth Plant Science Center,True,True
+Drexel University,False,True
+Duke University,False,True
+Duke_University,True,False
+Duquesne University,False,True
+Dutch National e-Infrastructure,True,False
+ETH Zurich,False,True
+Emory University,False,True
+Energy Sciences Network,True,False
+"Eureka Scientific, Inc.",False,True
+Facility for Rare Isotopes Beams (FRIB),False,True
+Fairfield,False,True
+Fermi National Accelerator Laboratory,True,False
+Fermilab,False,True
+Florida A&M University,True,False
+Florida Institute of Technology,True,True
+Florida International University,True,True
+Florida State University,True,True
+Folding@Home Consortium (FAHC),False,True
+Fond du Lac Tribal & Community College,False,True
+Franklin and Marshall College,True,False
+Fresno State University,False,True
+George Washington University,False,True
+Georgia Institute of Technology,True,True
+Georgia State University,True,True
+Great Plains Network,True,True
+Gridplexus,True,False
+Hampton University,False,True
+Hampton University PPCF,True,False
+Harvard Medical School,True,True
+Harvard University,True,True
+High Performance Computing Facility - University of Puerto Rico,True,False
+Hobart and William Smith Colleges,False,True
+IFAE,True,False
+INFN-PADOVA,True,False
+INFN-T1,True,False
+ISI,False,True
+IUPUI,False,True
+Icahn School of Medicine at Mount Sinai,False,True
+Illinois Institute of Technology,True,True
+Indian Institute of Chemical Biology,False,True
+Indiana University,True,True
+Indiana University of Pennsylvania,False,True
+Institute for Protein Innovation,False,True
+Institute of Physics ASCR,True,False
+"Institute of Plasma Physics, Chinese Academy of Sciences",True,False
+Inter-University Centre for Astronomy and Astrophysics,True,False
+International Center for Theoretical Physics,False,True
+International Centre for Theoretical Sciences,True,False
+International Gravitational-Wave Observatory Network (IGWN),False,True
+Internet2,True,True
+Iolani School,False,True
+Iowa State University,True,True
+JINR,True,False
+Jackson Laboratory for Genomic Medicine,False,True
+Jefferson Lab,False,True
+Johns Hopkins University,False,True
+Johns Hopkins University Applied Physics Lab,False,True
+Kansas State University,True,True
+Kansas University,True,False
+Kennesaw State University,True,True
+Kent State University,True,True
+Korea Institute of Science and Technology Information,True,False
+LHCONE,True,False
+LSU School of Public Health,False,True
+Lafayette College,True,False
+Lamar University,True,False
+Lancaster University,False,True
+Lancium,True,False
+Langston University,True,False
+Lawrence Berkeley National Laboratory,False,True
+Lawrence Berkley National Laboratory,True,False
+Lawrence Livermore National Laboratory,True,True
+Lehigh University,True,True
+Lonestar Education and Research Network,False,True
+Los Alamos National Lab,False,True
+"Louisiana School for Math, Science, and the Arts",False,True
+Louisiana State University,True,True
+Louisiana State University Health Sciences Center,True,True
+Louisiana Tech University,True,True
+Loyola University Chicago,False,True
+Massachusetts Green High Performance Computing Center,True,False
+Massachusetts Institute of Technology,True,True
+McGill University,True,False
+Meharry Medical College,False,True
+Memorial Sloan Kettering Cancer Center,False,True
+Michigan State University,False,True
+Michigan State University High Energy Physics,True,False
+Michigan Technological University,False,True
+Missouri University of Science and Technology,False,True
+Montana State University,False,True
+Montgomery College,False,True
+NIAID/NIH,False,True
+NOIR Lab,False,True
+NSF DC,True,False
+National Center for High-performance Computing,True,False
+National Center for Supercomputing Applications (NCSA),False,True
+National Energy Research Scientific Computing Center,True,False
+National Institute for Computational Sciences,False,True
+National Institute of Allergy and Infectious Diseases,False,True
+National Institute of Standards and Technology,False,True
+National Oceanic and Atmospheric Administration,False,True
+National Renewable Energy Laboratory,False,True
+National Research Council of Canada,False,True
+Nevada System of Higher Education,False,True
+New Jersey Institute of Technology,False,True
+New Mexico State University,True,True
+New York University,True,True
+Niagara University,True,False
+Nicholls State University,False,True
+Niels Bohr Institute,True,False
+North Carolina State University,True,True
+North Dakota State University,True,True
+Northeastern University,True,True
+Northern Illinois University,True,True
+Northwest Missouri State University,False,True
+Northwestern University,True,True
+OSG,False,True
+Oak Ridge National Laboratory,True,False
+Ohio State University,False,True
+Ohio Supercomputer Center,True,False
+Oklahoma State University,True,True
+Oklahoma University,False,True
+Old Dominion University,True,False
+Open Science Grid,False,True
+Oral Roberts University,True,False
+Oregon Health & Science University,False,True
+Oregon State University,False,True
+PNNL,True,False
+Pacific Northwest National Laboratory,False,True
+Pacific Research Platform,False,True
+Pacific Rim Application and Grid Middleware Assembly (PRAGMA),False,True
+Penn State University,True,False
+Pennsylvania State University,False,True
+Pittsburgh Supercomputing Center,True,False
+Planetary Science Institute,False,True
+Pontificia Universidad Javeriana,True,False
+Portland State University,True,True
+Princeton University,True,True
+Purdue University,True,True
+Purdue University Calumet,False,True
+Renaissance Computing Institute,False,True
+Rensselaer Polytechnic Institute,False,True
+Repertoire Immune Medicines,False,True
+Rhodes College,True,False
+Rice University,True,True
+Rochester Institute of Technology,True,True
+Rockefeller University,False,True
+Roswell Park Cancer Institute,False,True
+Rowan University,False,True
+Rutgers University,True,False
+"Rutgers, The State University of New Jersey",False,True
+SLAC National Accelerator Laboratory,False,True
+SUNY Albany,True,False
+SUNY Geneseo,True,False
+SUNY Upstate Medical University,False,True
+Salem State University,False,True
+San Diego State University,False,True
+Sandia National Laboratories,False,True
+Santa Clara University,False,True
+SeaQuest,False,True
+Siena College,False,True
+SingAREN,True,False
+South Dakota School of Mines and Technology,False,True
+South Dakota State University,False,True
+Southern Illinois University,False,True
+Southern Illinois University Edwardsville,True,True
+Southern Methodist University,True,True
+Southwest Oklahoma State University,False,True
+Space Telescope Science Institute,False,True
+Spelman College,False,True
+Stanford University,True,True
+State University of New York at Albany,False,True
+State University of New York at Binghamton,False,True
+State University of New York at Buffalo,False,True
+State University of New York at Stony Brook,False,True
+Steadman Philippon Research Institute,False,True
+Stony Brook University,True,False
+Susquehanna University,True,False
+Swarthmore College,False,True
+Swinburne University of Technology,True,False
+Syracuse University,True,True
+Tata Institute of Fundamental Research,True,False
+Tennessee Tech University,False,True
+Texas A&M University,True,True
+Texas Advanced Computing Center,True,False
+Texas Tech University,True,True
+The Citadel,False,True
+The College of New Jersey,True,True
+The Ohio State University,True,True
+The Pennsylvania State University,False,True
+The University of Alabama at Birmingham,False,True
+The University of Chicago,False,True
+The University of Kansas,False,True
+Thomas Jefferson National Accelerator Facility,True,False
+Toyota Technological Institute at Chicago,False,True
+Tufts University,True,True
+UC Irvine,True,False
+UC Santa Barbara,True,False
+UCSB,True,False
+UMSNH,True,False
+UNC Chapel Hill,False,True
+US ATLAS,False,True
+USDA Agricultural Research Service,False,True
+UT Southwestern,False,True
+United States Department of Agriculture,False,True
+Universidad Autonoma de Manizales,True,False
+Universidad Autonoma del Caribe,True,False
+Universidad Catolica de Colombia,True,False
+Universidad Industrial de Santander,True,False
+Universidad Pontificia Bolivariana,True,False
+Universidad Tecnologica de Bolivar,True,False
+Universidad de Caldas,True,False
+Universidad de Medellin,True,False
+"Universidad de Puerto Rico, Rio Piedras Campus (UPRRP)",False,True
+Universidad de los Andes,True,False
+Universidad del Valle,True,False
+Universidade Estadual Paulista,True,False
+Universidade de Sao Paulo,True,False
+Universidade de São Paulo - Laboratório de Computação Científica Avançada,True,False
+Universidade do Estado do Rio de Janeiro,True,False
+Universite catholique de Louvain,True,False
+University of Alabama,True,True
+University of Alabama at Birmingham,True,False
+University of Alaska Fairbanks,False,True
+University of Albany,False,True
+University of Amsterdam,True,False
+University of Arizona,True,True
+University of Arkansas,True,True
+University of Arkansas at Little Rock,True,True
+University of Bern,True,False
+University of Birmingham,True,False
+University of Buffalo,True,False
+University of California Davis,True,False
+University of California Los Angeles,True,False
+University of California Riverside,True,False
+University of California San Diego,True,False
+University of California Santa Cruz,True,True
+"University of California, Berkeley",False,True
+"University of California, Davis",False,True
+"University of California, Irvine",False,True
+"University of California, Los Angeles",False,True
+"University of California, Merced",False,True
+"University of California, Riverside",False,True
+"University of California, San Diego",False,True
+"University of California, San Francisco",False,True
+"University of California, Santa Barbara",False,True
+"University of California, Santa Cruz",False,True
+University of Campinas,True,False
+University of Central Florida,False,True
+University of Chicago,True,True
+University of Cincinnati,False,True
+University of Colorado,True,True
+University of Colorado Anschutz Medical Campus,False,True
+University of Colorado Boulder,False,True
+University of Colorado Denver,True,True
+University of Connecticut,True,True
+University of Connecticut Health Center,True,True
+University of Delaware,False,True
+University of Edinburgh,True,True
+University of Florida,True,True
+University of Georgia,True,False
+University of Guam,False,True
+University of Hawaii,True,True
+University of Hawaii at Manoa,False,True
+University of Illinois,False,True
+University of Illinois Chicago,True,True
+University of Illinois Urbana-Champaign,False,True
+University of Illinois at Urbana Champaign,True,False
+University of Iowa,True,True
+University of Johannesburg,True,False
+University of Kentucky,False,True
+University of Louisville,False,True
+University of Macau,False,True
+University of Maine,False,True
+University of Maine System,True,False
+University of Maryland,True,True
+University of Maryland Baltimore,False,True
+University of Maryland Center for Environmental Science,False,True
+University of Massachusetts,False,True
+University of Massachusetts - Amherst,True,False
+University of Massachusetts Amherst,False,True
+University of Massachusetts Boston,False,True
+University of Massachusetts Lowell,False,True
+University of Michigan,True,True
+University of Minnesota,True,True
+University of Minnesota Duluth,False,True
+University of Mississipi,False,True
+University of Mississippi,True,True
+University of Missouri,False,True
+University of Missouri-Columbia,False,True
+University of Montana,False,True
+University of Nebraska,True,True
+University of Nebraska - Lincoln,False,True
+University of Nebraska Medical Center,False,True
+University of Nebraska Omaha,False,True
+University of Nebraska-Lincoln,False,True
+"University of Nevada, Reno",False,True
+University of New England,False,True
+University of New Haven,False,True
+University of New Mexico,True,True
+University of North Carolina,True,False
+University of North Carolina at Chapel Hill,False,True
+"University of North Carolina, Chapel Hill",False,True
+University of North Dakota,False,True
+University of Northern Iowa,True,True
+University of Notre Dame,True,True
+University of Oklahoma,True,True
+University of Oregon,False,True
+University of Oxford,False,True
+University of Pennsylvania,True,True
+University of Pittsburgh,True,True
+University of Puerto Rico,False,True
+University of Puerto Rico - Mayaguez,True,True
+University of Rochester,False,True
+University of Sheffield,False,True
+University of South Carolina,False,True
+University of South Dakota,True,True
+University of South Florida,True,True
+University of Southern California,True,True
+University of Tennessee,False,True
+University of Tennessee Chattanooga,True,False
+University of Tennessee at Chattanooga,False,True
+"University of Tennessee, Knoxville",False,True
+University of Texas Arlington,True,False
+University of Texas Southwestern Medical Center,False,True
+University of Texas at Arlington,False,True
+University of Texas at Austin,True,True
+University of Texas at Dallas,True,True
+University of Texas at El Paso,False,True
+University of Toledo,False,True
+University of Tulsa,False,True
+University of Utah,True,True
+University of Venda,False,True
+University of Vermont,False,True
+University of Virginia,True,True
+University of Washington,True,True
+University of Wisconsin,True,False
+University of Wisconsin Milwaukee,True,False
+University of Wisconsin-Madison,False,True
+University of Wisconsin-Milwaukee,False,True
+University of Wyoming,False,True
+Utah State University,False,True
+Utrecht University,False,True
+Vanderbilt University,True,True
+Villanova University,True,True
+Virginia Tech,True,False
+Virginia Tech University,False,True
+Washington State University,False,True
+Washington University in St. Louis,False,True
+Wayne State University,True,True
+Wesleyan University,False,True
+West Chester University of Pennsylvania,False,True
+West Texas A&M University,True,False
+Western Washington University,False,True
+Wichita State University,False,True
+Worcester Polytechnic Institute,False,True
+Wright State Research Institute,False,True
+Yale University,False,True
